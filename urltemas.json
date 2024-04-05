@@ -1,0 +1,35 @@
+{
+    "nomeTema": "probandoUrl",
+    "id": "proba desde url", 
+    "tituloCompleto": "título url",
+    "numero": 10101,
+    "seccions": {
+    "teoria": "teoría url",
+    "resumo": "resumo url",
+    "microResumo": "microrresumo url",
+    "ideas": "ideas url",
+    "outros": "outros url"
+    },
+    "contenPreguntas": true,
+    "contenOutros": false,
+    "contenMinixogosPropios": false,
+    "contenPreguntasMinixogos": false,
+    "minixogos": false,
+    "preguntas": [    {
+        "numero": 1,
+        "numero_tema": 111,
+        "nome_tema": "proba2.",
+        "pregunta": "Pregunta?",
+        "resposta": "correcta",
+          "erradas": ["aaaaaaa", "bbbbbbbbb", "ccccccccc", "dddddddddd", "ffffffffff", "ggggggggggggggggg"]
+          },
+      {
+        "numero": 2,
+        "numero_tema": 222,
+        "nome_tema": "proba2.",
+        "pregunta": "Pregunta?",
+        "resposta": "correcta",
+          "erradas": ["aaaaaaa", "bbbbbbbbb", "ccccccccc", "dddddddddd", "ffffffffff", "ggggggggggggggggg"]
+          }],
+    "preguntasMinixogos": []
+    }
