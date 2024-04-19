@@ -3,7 +3,7 @@
   "tituloCompleto": "A comunicación",
   "numero": 1,
   "seccions": {
-    "teoria": `<p style="text-align: center;"><span style="color: #00005a;"><strong>TEMA 1</strong></span></p>
+    "teoria": "<p style="text-align: center;"><span style="color: #00005a;"><strong>TEMA 1</strong></span></p>
 <p style="text-align: center;"><span style="color: #00005a;"><strong>A COMUNICACI&Oacute;N E AS S&Uacute;AS VARIEDADES. A COMUNICACI&Oacute;N HUMANA. A LINGUAXE E AS S&Uacute;AS FUNCI&Oacute;NS.</strong></span></p>
 <p style="text-align: justify;"><span style="color: #00005a;"><strong>1.&nbsp; A COMUNICACI&Oacute;N</strong></span></p>
 <p style="text-align: justify;">A palabra <em>comunicaci&oacute;n </em>procede do lat&iacute;n <em>communicatio, </em>derivada esta do verbo <em>communicare </em>co que se designaba a acci&oacute;n de compartir, de po&ntilde;er algo en com&uacute;n, de participar en algo con algu&eacute;n.</p>
@@ -100,8 +100,8 @@
 <p style="text-align: justify;"><strong>&mdash; F&aacute;tica ou de contacto. </strong>Serve para encetar, manter ou suspender a co&shy;municaci&oacute;n sen engadir ning&uacute;n dato. &Uacute;sase para comprobar a operatividade da canle: <em>Si, si...; ola, ola...; probando.</em></p>
 <p style="text-align: justify;"><strong><em>&mdash; </em></strong><strong>Po&eacute;tica ou est&eacute;tica. </strong>Centra a atenci&oacute;n na forma da mensaxe. &Eacute; a fun&shy;ci&oacute;n caracter&iacute;stica da lingua literaria, pero non &eacute; exclusiva desta: <em>Club Atl&eacute;tico de Casaso&aacute;: ab&oacute;nate e medrar&aacute;s. A torre da derrota.</em></p>
 <p style="text-align: justify;"><strong><em>&mdash; </em></strong><strong>Metaling&uuml;&iacute;stica. </strong>Serve para informar sobre un compo&ntilde;ente do c&oacute;digo ling&uuml;&iacute;stico; &uacute;sase o c&oacute;digo para falar del mesmo: <em>A palabra &laquo;can&raquo; &eacute; un substantivo masculino.</em></p>
-<p style="text-align: justify;">A&iacute;nda que as funci&oacute;ns da linguaxe se dan habitualmente combinadas no discurso, pode haber unha que predomine sobre as outras. Daquela, f&aacute;lase de <strong>funci&oacute;n dominante </strong>e de funci&oacute;n ou <strong>funci&oacute;ns secundarias.</strong></p>`,
-"resumo": `<p><strong>1. A comunicaci&oacute;n</strong></p>
+<p style="text-align: justify;">A&iacute;nda que as funci&oacute;ns da linguaxe se dan habitualmente combinadas no discurso, pode haber unha que predomine sobre as outras. Daquela, f&aacute;lase de <strong>funci&oacute;n dominante </strong>e de funci&oacute;n ou <strong>funci&oacute;ns secundarias.</strong></p>",
+"resumo": "<p><strong>1. A comunicaci&oacute;n</strong></p>
   <p>A comunicaci&oacute;n &eacute; o proceso social que ten como finalidade o intercambio de informaci&oacute;n. Pode ocorrer de diversas formas, dependendo dos participantes e dos medios utilizados. A comunicaci&oacute;n pode ser <strong>inanimada</strong>, na que a informaci&oacute;n parte de <strong>obxectos</strong> ou <strong>fen&oacute;menos naturais</strong>, ou <strong>animada</strong>, que se establece <strong>entre seres vivos</strong>. Na comunicaci&oacute;n <strong>animada</strong>, distinguimos a comunicaci&oacute;n <strong>animal</strong> da comunicaci&oacute;n <strong>humana</strong>.</p>
   <p>A comunicaci&oacute;n humana utiliza principalmente a linguaxe verbal, tanto oral como escrita, para transmitir mensaxes. Por&eacute;n, tam&eacute;n se empregan sistemas non verbais, como a <strong>comunicaci&oacute;n paraling&uuml;&iacute;stica</strong> (<strong>sinais orais</strong> que <strong>complementan</strong> a expresi&oacute;n verbal) e a comunicaci&oacute;n <strong>extraling&uuml;&iacute;stica</strong> (transmisi&oacute;n de informaci&oacute;n a trav&eacute;s da <strong>expresi&oacute;n facial</strong>, <strong>posturas</strong> <strong>corporais</strong>, <strong>etc</strong>.).</p>
   <p>No que se refire aos tipos de comunicaci&oacute;n humana, temos a comunicaci&oacute;n visual (linguaxe escrita, sinais de circulaci&oacute;n), t&aacute;ctil (escritura braille, linguaxe dos xordo-cegos), sonora (linguaxe oral, sinais ac&uacute;sticos) e olfactiva/gustativa (c&oacute;digos relacionados co olfacto e o gusto, como perfumes e sabores gastron&oacute;micos).</p>
@@ -129,7 +129,7 @@
   <p>A situaci&oacute;n ref&iacute;rese ao <strong>contorno extraling&uuml;&iacute;stico</strong> que rodea o acto de comunicaci&oacute;n, como o <strong>lugar</strong>, o <strong>momento</strong>, os <strong>acontecementos</strong> e o <strong>ambiente hist&oacute;rico</strong>, <strong>social</strong> e <strong>cultural</strong>. O contexto, por outro lado, &eacute; o conxunto de palabras que rodean un termo e axuda a clarificar o seu sentido e valor. O significado preciso dunha palabra ou frase adoita depender do contexto no que aparece.</p>
   <p><strong>5. O ru&iacute;do e a redundancia</strong></p>
   <p>Na comunicaci&oacute;n, hai dous elementos que poden perturbar o proceso: o ru&iacute;do e a redundancia. O <strong>ru&iacute;do</strong> ref&iacute;rese a <strong>calquera interferencia</strong> que afecte aos elementos da comunicaci&oacute;n, <strong>como problemas do emisor, receptor, canal, mensaxe, c&oacute;digo ou referente</strong>. Para compensar o ru&iacute;do, introd&uacute;cese a <strong>redundancia</strong> na codificaci&oacute;n da mensaxe. A redundancia consiste nas <strong>partes da mensaxe que non son esenciais</strong> para a comprensi&oacute;n completa. Iso incl&uacute;e <strong>repetici&oacute;ns</strong> nos diferentes niveis ling&uuml;&iacute;sticos, como <strong>x&eacute;nero</strong> e <strong>n&uacute;mero</strong> nos <strong>artigos</strong> e <strong>adxectivos</strong>. A redundancia axuda a minimizar os efectos do ru&iacute;do e a garantir unha mellor comunicaci&oacute;n.</p>`,
-    "microResumo": `<p><strong>A comunicaci&oacute;n:</strong></p>
+    "microResumo": "<p><strong>A comunicaci&oacute;n:</strong></p>
   <p>Proceso social de intercambio de informaci&oacute;n.</p>
   <p>Pode ser inanimada (obxectos e fen&oacute;menos naturais) ou animada (entre seres vivos).</p>
   <p>A comunicaci&oacute;n humana utiliza principalmente a linguaxe verbal, pero tam&eacute;n sistemas non verbais.</p>
@@ -152,7 +152,7 @@
   <p>A redundancia &eacute; a repetici&oacute;n non esencial nas mensaxes para compensar o ru&iacute;do.</p>
   <p>Minimiza os efectos do ru&iacute;do e garante unha mellor comunicaci&oacute;n.</p>
   <p>Estes son os puntos m&aacute;is destacados do texto. Se necesitas m&aacute;is informaci&oacute;n sobre alg&uacute;n destes conceptos ou tes algunha pregunta adicional, estou aqu&iacute; para axudar.</p>`,
-    "ideas": `<p><strong>1. HIPER-RESUMO TEMA 1</strong></p>
+    "ideas": "<p><strong>1. HIPER-RESUMO TEMA 1</strong></p>
   <p>A comunicaci&oacute;n &eacute; o proceso social que ten como obxectivo o intercambio de informaci&oacute;ns entre os membros dunha sociedade. A palabra deriva do lat&iacute;n <em>communicatio</em>, que significa compartir ou participar en algo con algu&eacute;n. Existen distintos tipos de comunicaci&oacute;n, dependendo das condici&oacute;ns dos participantes e dos medios utilizados, sendo as principais a comunicaci&oacute;n inanimada e a animada.</p>
   <p>A comunicaci&oacute;n inanimada envolve informaci&oacute;ns que parten dun obxecto ou fen&oacute;meno natural, como o estado do tempo. Xa a comunicaci&oacute;n animada pode ser dividida en d&uacute;as categor&iacute;as: a comunicaci&oacute;n animal, presente en moitas especies animais, e a comunicaci&oacute;n humana, que se d&aacute; principalmente pola linguaxe verbal, oral e escrita, mais tam&eacute;n por medio de sistemas non verbais, como a comunicaci&oacute;n paralingu&iacute;stica e extralingu&iacute;stica.</p>
   <p>A comunicaci&oacute;n humana pode ser clasificada de acordo co medio utilizado, inclu&iacute;ndo a comunicaci&oacute;n visual, t&aacute;ctil, sonora, olfactiva e gustativa. No entanto, os dous &uacute;ltimos tipos son menos utilizados na comunicaci&oacute;n humana do que no reino animal. A Teor&iacute;a da Comunicaci&oacute;n &eacute; a disciplina que estuda todos os factores que interve&ntilde;en no proceso comunicativo, tanto na comunicaci&oacute;n humana como na comunicaci&oacute;n inanimada e animada non humana.</p>
@@ -184,7 +184,7 @@
 <p>O exceso de redundancia pode prexudicar a comprensi&oacute;n da mensaxe e converterse en ru&iacute;do.</p>
 <p><strong>V. A intenci&oacute;n comunicativa</strong>: A comunicaci&oacute;n &eacute; o resultado dun acto volitivo intencionado.</p>
 <p>O proceso comunicativo vai m&aacute;is al&oacute; da comprensi&oacute;n literal das mensaxes.</p>
-<p>A intenci&oacute;n comunicativa pode ser expl&iacute;cita ou impl&iacute;cita.</p>`,
+<p>A intenci&oacute;n comunicativa pode ser expl&iacute;cita ou impl&iacute;cita.</p>",
     "outros": null,
   },
   "minixogos": false,
