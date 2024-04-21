@@ -241,7 +241,7 @@
       "numero": 16,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cales dos seguintes elementos pertencen todos ao contido dun comentario literario?",
+      "pregunta": "Cales dos seguintes elementos pertencen todos ao contido dun comentario literario?",
       "resposta": "Voces poéticas, argumento, tema e estrutura temática.",
       "erradas": [
         "Localización espacial, localización temporal, elementos humanos.",
@@ -256,7 +256,7 @@
       "numero": 17,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cal destes sería a estrutura básica do comentario literario?",
+      "pregunta": "Cal destes sería a estrutura básica do comentario literario?",
       "resposta": "Introdución, contido, forma, conclusión persoal.",
       "erradas": [
         "Argumento, tema, localización, elementos humanos.",
@@ -271,7 +271,7 @@
       "numero": 18,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cales destes elementos non son analizados na introdución dun comentario literario?",
+      "pregunta": "Cales destes elementos non son analizados na introdución dun comentario literario?",
       "resposta": "Estrutura temática e recursos formais.",
       "erradas": [
         "Tipo de texto e temática conexión co autor/época/ tópicos da literatura universal.",
@@ -286,7 +286,7 @@
       "numero": 19,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Que elemento non se analiza na forma dun comentario literario?",
+      "pregunta": "Que elemento non se analiza na forma dun comentario literario?",
       "resposta": "Argumento.",
       "erradas": [
         "Métrica.",
@@ -301,7 +301,7 @@
       "numero": 20,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cal destes non é un recurso do son nun poema?",
+      "pregunta": "Cal destes non é un recurso do son nun poema?",
       "resposta": "Recursos gráficos.",
       "erradas": [
         "Aliteración.",
@@ -316,7 +316,7 @@
       "numero": 21,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Que aspecto non se analiza na conclusión persoal dun comentario literario?",
+      "pregunta": "Que aspecto non se analiza na conclusión persoal dun comentario literario?",
       "resposta": "Localización espacial.",
       "erradas": [
         "O poema na história da literatura.",
@@ -331,7 +331,7 @@
       "numero": 22,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cales destes elementos non se consideran parte do contido dun comentario literario?",
+      "pregunta": "Cales destes elementos non se consideran parte do contido dun comentario literario?",
       "resposta": "Recursos gráficos e cita literaria.",
       "erradas": [
         "Voces poéticas e argumento.",
@@ -346,7 +346,7 @@
       "numero": 23,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Que elemento non é parte da estrutura temática dun poema?",
+      "pregunta": "Que elemento non é parte da estrutura temática dun poema?",
       "resposta": "Recursos gráficos.",
       "erradas": [
         "Voces poéticas.",
@@ -361,7 +361,7 @@
       "numero": 24,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cal destes non é un elemento humano a analizar nun poema?",
+      "pregunta": "Cal destes non é un elemento humano a analizar nun poema?",
       "resposta": "Ritmo.",
       "erradas": [
         "Protagonistas.",
@@ -376,7 +376,7 @@
       "numero": 25,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cual destas non é un tipo de texto?",
+      "pregunta": "Cual destas non é un tipo de texto?",
       "resposta": "Ritmo.",
       "erradas": [
         "Prosa.",
@@ -391,7 +391,7 @@
       "numero": 26,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Que non se considera un recurso estilístico nun comentario literario?",
+      "pregunta": "Que non se considera un recurso estilístico nun comentario literario?",
       "resposta": "Localización temporal.",
       "erradas": [
         "Metáfora.",
@@ -406,7 +406,7 @@
       "numero": 27,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cales destes non son recursos do son nun poema?",
+      "pregunta": "Cales destes non son recursos do son nun poema?",
       "resposta": "Recursos gráficos e simboloxía.",
       "erradas": [
         "Aliteración e onomatopeas.",
@@ -421,7 +421,7 @@
       "numero": 28,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Que aspecto non é parte da análise do léxico nos campos semánticos?",
+      "pregunta": "Que aspecto non é parte da análise do léxico nos campos semánticos?",
       "resposta": "Recursos gráficos.",
       "erradas": [
         "Sinónimos.",
@@ -436,7 +436,7 @@
       "numero": 29,
       "numero_tema": 777,
       "nome_tema": "Guión do comentario literario.",
-      "pergunta": "Cal destes non é un tipo de conexión co autor/época/ tópicos da literatura universal?",
+      "pregunta": "Cal destes non é un tipo de conexión co autor/época/ tópicos da literatura universal?",
       "resposta": "Recursos gráficos.",
       "erradas": [
         "Influencia.",
