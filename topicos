@@ -87,7 +87,7 @@
       "numero": 35,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Cal é o tópico  literario que expresa a fugacidade do tempo e da vida, invitando a gozar intensamente o presente?",
+      "pregunta": "Cal é o tópico literario que expresa a fugacidade do tempo e da vida, invitando a gozar intensamente o presente?",
       "resposta": "Carpe diem",
       "erradas": [
         "Tempus fugit",
@@ -161,7 +161,7 @@
       "numero": 40,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Cal é o tópico que representa a idea de que a vida é un breve sono, un soño efémero?",
+      "pregunta": "Cal é o tópico que representa a idea de que a vida é un breve soño, un soño efémero?",
       "resposta": "Vita somnium",
       "erradas": [
         "Est modus in rebus",
@@ -221,7 +221,7 @@
       "numero": 44,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Cal é o tópico que reflicte a idea de que a vida é unha sucesión de prazeres e desgrazas, unha rolda constante?",
+      "pregunta": "Cal é o tópico que reflicte a idea de que a vida é unha sucesión de praceres e desgrazas, unha rolda constante?",
       "resposta": "Rota fortunae",
       "erradas": [
         "Vita somnium",
@@ -304,7 +304,7 @@
         "Vanitas vanitatis et omnia vanitas",
         "Sic transit gloria mundi",
         "Locus amoenus",
-        "Dulce ferida"
+        "Doce ferida"
       ]
     },
     {
@@ -371,7 +371,7 @@
       "numero": 54,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Cal é o tópico que representa a idea de que a sorte é a emperatriz do mundo, que cambia a situación dos individuos de forma imprevisíbel?",
+      "pregunta": "Cal é o tópico que representa a idea de que a sorte é a emperatriz do mundo, que cambia a situación dos individuos de forma imprevisible?",
       "resposta": "Fortuna imperatrix mundi",
       "erradas": [
         "A morte igualadora",
@@ -432,7 +432,7 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "Cal é o tópico que describe o home como un microcosmos que reflicte as mesmas características do universo?",
-      "resposta": "El hombre como microcosmos",
+      "resposta": "O home como microcosmos",
       "erradas": [
         "A morte igualadora",
         "Magister dixit",
@@ -536,7 +536,7 @@
       "numero": 65,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Na Idade Media, que tópico reflicte a idea de que a morte é a gran niveladora das diferenzas sociais, facendo tabla rasa entre as distintas clases sociais?",
+      "pregunta": "Na Idade Media, que tópico reflicte a idea de que a morte é a gran niveladora das diferenzas sociais, facendo táboa rasa entre as distintas clases sociais?",
       "resposta": "A morte igualadora",
       "erradas": [
         "Magister dixit",
@@ -592,7 +592,7 @@
       "numero": 69,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Na Idade Media, cal era o tópico que reflicte a idea de que a sorte é a emperatriz do mundo, cambiando a situación dos individuos de forma imprevisíbel?",
+      "pregunta": "Na Idade Media, cal era o tópico que reflicte a idea de que a sorte é a emperatriz do mundo, cambiando a situación dos individuos de forma imprevisible?",
       "resposta": "Fortuna imperatrix mundi",
       "erradas": [
         "A morte igualadora",
@@ -607,7 +607,7 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "Na Idade Media, cal era o tópico que describía o home como un microcosmos que reflicte as mesmas características do universo?",
-      "resposta": "El hombre como microcosmos",
+      "resposta": "O home como microcosmos",
       "erradas": [
         "A morte igualadora",
         "Magister dixit",
@@ -627,7 +627,8 @@
         "Magister dixit",
         "Todo composto segundo peso e medida",
         "Vanitas vanitatum",
-        "Fortuna imperatrix mundi"
+        "Fortuna imperatrix mundi",
+        "O home como microcosmos"
       ]
     },
     {
@@ -718,7 +719,7 @@
       "numero": 78,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Na Idade Media, cal era o tópico que reflicte a idea de que a sorte é a emperatriz do mundo, cambiando a situación dos individuos de forma imprevisíbel?",
+      "pregunta": "Na Idade Media, cal era o tópico que reflicte a idea de que a sorte é a emperatriz do mundo, cambiando a situación dos individuos de forma imprevisible?",
       "resposta": "Fortuna imperatrix mundi",
       "erradas": [
         "A morte igualadora",
@@ -733,7 +734,7 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "Na Idade Media, cal era o tópico que describía o home como un microcosmos que reflicte as mesmas características do universo?",
-      "resposta": "El hombre como microcosmos",
+      "resposta": "O home como microcosmos",
       "erradas": [
         "A morte igualadora",
         "Magister dixit",
@@ -788,7 +789,7 @@
       "numero": 82,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "Na literatura do Renacemento, cal é o concepto que destaca a importancia da vida sencilla e retirada en contacto coa natureza?",
+      "pregunta": "Na literatura do Renacemento, cal é o concepto que destaca a importancia da vida sinxela e retirada en contacto coa natureza?",
       "resposta": "Beatus ille... qui procul negotiis",
       "erradas": [
         "Carpe diem",
@@ -872,7 +873,7 @@
       "numero": 88,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Renacemento, cal é o concepto que afirma que os seres humanos deben disfrutar do presente, pois o paso do tempo acabará coa súa beleza e vitalidade?",
+      "pregunta": "No Renacemento, cal é o concepto que afirma que os seres humanos deben gozar do presente, pois o paso do tempo acabará coa súa beleza e vitalidade?",
       "resposta": "Carpe diem",
       "erradas": [
         "Beatus ille... qui procul negotiis",
@@ -1026,7 +1027,7 @@
       "numero": 99,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Barroco, cal é o símbolo utilizado para expresar a melancolía polo paso do tempo e a vejez?",
+      "pregunta": "No Barroco, cal é o símbolo utilizado para expresar a melancolía polo paso do tempo e a vellez?",
       "resposta": "Melancolía saturniana",
       "erradas": [
         "Desengano",
@@ -1054,7 +1055,7 @@
       "numero": 101,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Barroco, cal é o tópico que altera o orden lóxico para expresar a falta de xustiza no mundo?",
+      "pregunta": "No Barroco, cal é o tópico que altera a orde lóxica para expresar a falta de xustiza no mundo?",
       "resposta": "Adynata",
       "erradas": [
         "Desengano",
@@ -1083,7 +1084,7 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "No Barroco, cal é a frase que describe que a vida humana é unha guerra?",
-      "resposta": "El mundo como guerra",
+      "resposta": "O mundo como guerra",
       "erradas": [
         "Desengano",
         "Melancolía saturniana",
@@ -1138,7 +1139,7 @@
       "numero": 107,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Barroco, cal é o concepto que reflicte a filosofía do estoicismo, na que o individuo non se ata a ben materiais?",
+      "pregunta": "No Barroco, cal é o concepto que reflicte a filosofía do estoicismo, na que o individuo non se ata a bens materiais?",
       "resposta": "Omnia mecum porto",
       "erradas": [
         "Desengano",
@@ -1194,7 +1195,7 @@
       "numero": 111,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Barroco, cal é o concepto que describe a idea de que a vida humana é como unha guerra civil?",
+      "pregunta": "No Barroco, cal é o concepto que describe a idea de que a vida humana é coma unha guerra civil?",
       "resposta": "Homo homini lupus",
       "erradas": [
         "Desengano",
@@ -1223,9 +1224,9 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "Na Ilustración, cal é o concepto que defende que os antigos son superiores aos modernos?",
-      "resposta": "Los antiguos son mejores que los modernos",
+      "resposta": "Os antigos son mellores ca os modernos",
       "erradas": [
-        "O  bo salvaxe",
+        "O bo salvaxe",
         "Miscere utile dulci",
         "Caracteres nacionales",
         "O heroe rebelde",
@@ -1237,26 +1238,26 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "No Romanticismo, cal é o concepto que promove a idea de que o home é bo por natureza e corrompido pola civilización?",
-      "resposta": "O  bo salvaxe",
+      "resposta": "O bo salvaxe",
       "erradas": [
         "Miscere utile dulci",
         "Caracteres nacionales",
         "O heroe rebelde",
         "As ruínas representan a victoria da natureza sobre a civilización",
-        "Símbolos personales como el albatros de Baudelaire"
+        "Símbolos personais coma o albatros de Baudelaire"
       ]
     },
     {
       "numero": 116,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Romanticismo, cal é o concepto que promove a originalidade fronte ás fórmulas estereotipadas?",
-      "resposta": "El Romanticismo es enemigo de las fórmulas estereotipadas y repetidas",
+      "pregunta": "No Romanticismo, cal é o concepto que promove a orixinalidade fronte ás fórmulas estereotipadas?",
+      "resposta": "O Romanticismo é inemigo das fórmulas estereotipadas e repetidas",
       "erradas": [
         "Caracteres nacionales",
         "O heroe rebelde",
         "As ruínas representan a victoria da natureza sobre a civilización",
-        "Símbolos personales como el albatros de Baudelaire",
+        "Símbolos personais coma o albatros de Baudelaire",
         "O heroe rebelde"
       ]
     },
@@ -1268,24 +1269,24 @@
       "resposta": "A muller adúltera",
       "erradas": [
         "O individualismo burgués",
-        "O choque entre tradición y modernidad",
-        "A diferencia de valores entre la cidade e o campo",
-        "A miseria  e explotación da clase traballadora",
-        "El determinismo social y genético"
+        "O choque entre tradi<ón e modernidade",
+        "A diferenza de valores entre a cidade e o campo",
+        "A miseria e explotación da clase traballadora",
+        "O determinismo social e xenético"
       ]
     },
     {
       "numero": 118,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Naturalismo, cal é o tópico que aborda a diferencia de valores entre a cidade e o campo?",
+      "pregunta": "No Naturalismo, cal é o tópico que aborda a diferenza de valores entre a cidade e o campo?",
       "resposta": "A diferenza de valores entre a cidade e o campo",
       "erradas": [
-        "A miseria   e explotación da clase traballadora",
-        "El determinismo social y genético",
+        "A miseria e explotación da clase traballadora",
+        "O determinismo social e xenético",
         "A muller adúltera",
-        "El individualismo burgués",
-        "El choque entre tradición y modernidad"
+        "O individualismo burgués",
+        "O choque entre tradizón e modernidade"
       ]
     },
     {
@@ -1296,7 +1297,7 @@
       "resposta": "Dandismo",
       "erradas": [
         "Bohemia",
-        "Turris eburnea o torre de marfil",
+        "Turris eburnea ou torre de marfil",
         "Mal do século ou mal metafísico, ou spleen",
         "O hastío da festa",
         "Vita punctum est"
@@ -1306,12 +1307,12 @@
       "numero": 120,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Modernismo, cal é o concepto que identifica cos marginados e o ambiente do suburbio?",
+      "pregunta": "No Modernismo, cal é o concepto que se identifica cos marxinados e o ambiente do suburbio?",
       "resposta": "Bohemia",
       "erradas": [
         "Dandismo",
-        "Turris eburnea o torre de marfil",
-        "Mal do século ou mal metafísico,ou spleen",
+        "Turris eburnea ou torre de marfil",
+        "Mal do século ou mal metafísico, ou spleen",
         "O hastío da festa",
         "Vita punctum est"
       ]
@@ -1325,7 +1326,7 @@
       "erradas": [
         "Dandismo",
         "Bohemia",
-        "Turris eburnea o torre de marfil",
+        "Turris eburnea ou torre de marfil",
         "Mal do século o mal metafísico, ou spleen",
         "O hastío da festa"
       ]
@@ -1339,7 +1340,7 @@
       "erradas": [
         "Dandismo",
         "Bohemia",
-        "Turris eburnea oU torre de marfil",
+        "Turris eburnea ou torre de marfil",
         "O hastío da festa",
         "Vita punctum est"
       ]
@@ -1348,12 +1349,12 @@
       "numero": 123,
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
-      "pregunta": "No Modernismo, cal é o concepto que representa a tristeza e a soedade en medio da alegría das festas sociais?",
+      "pregunta": "No Modernismo, cal é o concepto que representa a tristeza e a soidade en medio da alegría das festas sociais?",
       "resposta": "O hastío da festa",
       "erradas": [
         "Dandismo",
         "Bohemia",
-        "Turris eburnea o torre de marfil",
+        "Turris eburnea ou torre de marfil",
         "Mal do século ou mal metafísico, ou spleen",
         "Vita punctum est"
       ]
@@ -1369,7 +1370,7 @@
         "Caracteres nacionales",
         "O heroe rebelde",
         "As ruínas representan a victoria da natureza sobre a civilización",
-        "Símbolos personales como o albatros de Baudelaire"
+        "Símbolos personais coma o albatros de Baudelaire"
       ]
     },
     {
@@ -1377,7 +1378,7 @@
       "numero_tema": 1001,
       "nome_tema": "TÓPICOS LITERARIOS",
       "pregunta": "No Romanticismo, cal é o tópico que promove a idea de que o individualismo burgués é predominante?",
-      "resposta": "El individualismo burgués",
+      "resposta": "O individualismo burgués",
       "erradas": [
         "O choque entre tradzón e modernidad",
         "A diferenza de valores entre a cidade e o campo",
@@ -1393,11 +1394,11 @@
       "pregunta": "No Naturalismo, cal é o tópico que representa a situación da clase traballadora?",
       "resposta": "A miseria e explotación da clase traballadora",
       "erradas": [
-        "La diferencia de valores entre a cidade e o campo",
+        "A diferenza de valores entre a cidade e o campo",
         "O determinismo social e xenético",
         "A muller adúltera",
         "O individualismo burgués",
-        "O choque entre tradición e modernidade"
+        "O choque entre tradizón e modernidade"
       ]
     },
     {
@@ -1424,8 +1425,8 @@
         "A muller adúltera",
         "O individualismo burgués",
         "O choque entre tradizón e modernidade",
-        "La diferencia de valores entre a cidade e o campo",
-        "A miseria  e explotación da clase traballadora"
+        "A diferenza de valores entre a cidade e o campo",
+        "A miseria e explotación da clase traballadora"
       ]
     }
   ],
