@@ -1,7 +1,20 @@
 {
     "nomeTema": "probandoUrl",
-    "tituloCompleto": "título url",
+    "tituloCompleto": "título de tema url",
     "numero": 10101,
+        "nomeTeoria":"Teoría Nome",
+    "nomeResumo":"Resumox",
+    "nomeMicrorresumo":"Minirresumo",
+    "nomeIdeas":"Ideas",
+    "nomeOutros":"Outros",
+    "contenTeoria":true,
+    "contenResumo":true,
+    "contenMicrorresumo":true,
+    "contenIdeas":true,
+    "contenOutros":false,
+  "contenPreguntas":true,
+  "contenMinixogosPropios":false,
+  "contenPreguntasMinixogos":false,
     "seccions": {
     "teoria": "teoría url",
     "resumo": "resumo url",
@@ -9,10 +22,6 @@
     "ideas": "ideas url",
     "outros": "outros url"
     },
-    "contenPreguntas": true,
-    "contenOutros": false,
-    "contenMinixogosPropios": false,
-    "contenPreguntasMinixogos": false,
     "minixogos": false,
     "preguntas": [    {
         "numero": 1,
