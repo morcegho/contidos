@@ -66,9 +66,7 @@
 <p>Durante os anos 90, as tecnolox&iacute;as avanzaron grazas &aacute; dixitalizaci&oacute;n e a Internet. Esta rede global perm&iacute;telle aos usuarios enviar e recibir informaci&oacute;n de todo o mundo, servindo de soporte para os medios tradicionais como a prensa, radio e televisi&oacute;n, que agora tam&eacute;n ofrecen contido en li&ntilde;a.</p>
 <p><strong>8.2. A lingua galega en Internet</strong></p>
 <p>En 1996, a implantaci&oacute;n de Internet na Galiza permitiu que a lingua galega comezase a estar presente na Rede. Xurdiron portais en galego como <strong>Vieiros</strong>, xornais en li&ntilde;a e proxectos de normalizaci&oacute;n ling&uuml;&iacute;stica, a&iacute;nda que a presenza do galego segue sendo insuficiente para consolidar a s&uacute;a normalizaci&oacute;n no &aacute;mbito dixital.</p>
-<p><br /> <br /> </p>"
-
-,
+<p><br /> <br /> </p>",
     "microResumo": "<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <p>A comunicaci&oacute;n &eacute; un proceso fundamental no ser humano, que implica a transmisi&oacute;n de informaci&oacute;n mediante a emisi&oacute;n, conduci&oacute;n e recepci&oacute;n dunha mensaxe. Esta necesidade de relacionarse cos demais permitiu que os seres humanos mellorasen os m&eacute;todos de comunicaci&oacute;n ao longo da historia. Actualmente, a maior&iacute;a dos contactos sociais real&iacute;zanse a trav&eacute;s de medios artificiais, como resultado dos avances tecnol&oacute;xicos.</p>
@@ -371,9 +369,7 @@
 <p>En 1996, Galicia comezou a integrar o galego en Internet con proxectos como Vieiros.</p>
 <p>A presenza do galego en Internet segue sendo limitada, afectando a s&uacute;a normalizaci&oacute;n ling&uuml;&iacute;stica.</p>
 <p><br /> <br /> <br /> </p>
-</div>
-"
-    },
+</div>"},
     "minixogos": false,
     "preguntas": [
     {
@@ -825,17 +821,7 @@
             "Restringir o acceso á información.",
             "Decidir o futuro político dunha nación."
         ]
-    }
-,
-
-
-
-
-
-
-
-
-
+    },
     {
         "numero": 31,
         “numero_tema”: 4,
@@ -1285,9 +1271,7 @@
             "Modificar contidos para adaptalos a intereses comerciais.",
             "Reforzar a censura sobre temas sensibles."
         ]
-    }
-,
-[
+    },
     {
         "numero": 61,
         “numero_tema”: 4,
@@ -1887,10 +1871,8 @@
             "1940.",
             "1950."
         ]
-    }
-,
-
-    {
+    },
+{
         "numero": 101,
         “numero_tema”: 4,
         "nome_tema": "Estilo informativo",
@@ -2264,10 +2246,8 @@
             "Uso de metáforas.",
             "Estilo florido e descritivo."
         ]
-    }
-,
-
-    {
+    },
+{
         "numero": 126,
         “numero_tema”: 4,
         "nome_tema": "Estilo descritivo",
@@ -2791,9 +2771,8 @@
             "Concerto.",
             "Entrevista."
         ]
-    }
-,
-   {
+    },
+{
         "numero": 161,
         “numero_tema”: 4,
         "nome_tema": "A Publicidade",
@@ -3244,7 +3223,6 @@
         ]
     }
 ]
-
 ,
-    "preguntasMinixogos": []
+  "preguntasMinixogos": []
     }
