@@ -1,23 +1,23 @@
 {
-    "nomeTema": "tema 4",
-    "tituloCompleto": "Os medios de comunicación de masas. Os medios impresos e os medios audiovisuais. Imaxe e texto.",
-    "numero": 4,
-        "nomeTeoria":"Teoría",
-    "nomeResumo":"Resumo",
-    "nomeMicrorresumo":"Resumo reorganizado",
-    "nomeIdeas":"outro resumo",
-    "nomeOutros":"Guión e sentencias",
-    "contenTeoria":true,
-    "contenResumo":true,
-    "contenMicrorresumo":true,
-    "contenIdeas":true,
-    "contenOutros":true,
-  "contenPreguntas":true,
-  "contenMinixogosPropios":false,
-  "contenPreguntasMinixogos":false,
-    "seccions": {
-    "teoria": "teoría url",
-    "resumo": `<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
+"nomeTema": "tema 4",
+"tituloCompleto": "Os medios de comunicación de masas. Os medios impresos e os medios audiovisuais. Imaxe e texto.",
+"numero": 4,
+"nomeTeoria":"Teoría",
+"nomeResumo":"Resumo",
+"nomeMicrorresumo":"Resumo reorganizado",
+"nomeIdeas":"outro resumo",
+"nomeOutros":"Guión e sentencias",
+"contenTeoria":true,
+"contenResumo":true,
+"contenMicrorresumo":true,
+"contenIdeas":true,
+"contenOutros":true,
+"contenPreguntas":true,
+"contenMinixogosPropios":false,
+"contenPreguntasMinixogos":false,
+"seccions": {
+"teoria": "teoría url",
+"resumo": "<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <p>A comunicaci&oacute;n, desde un punto de vista restritivo, def&iacute;nese como a transmisi&oacute;n de informaci&oacute;n mediante a emisi&oacute;n, conduci&oacute;n e recepci&oacute;n dunha mensaxe. &Eacute; unha aptitude innata do ser humano, quen sempre necesitou relacionarse cos seus semellantes. Isto fomentou a integraci&oacute;n en grupos sociais m&aacute;is amplos e, ao longo da historia, a mellora das capacidades de transmisi&oacute;n e recepci&oacute;n de informaci&oacute;n. Actualmente, os medios de comunicaci&oacute;n artificiais, potenciados polas novas tecnolox&iacute;as, son os principais condutos a trav&eacute;s dos cales as persoas establecen contacto co exterior.</p>
 <p><strong>2. OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS</strong></p>
@@ -66,10 +66,10 @@
 <p>Durante os anos 90, as tecnolox&iacute;as avanzaron grazas &aacute; dixitalizaci&oacute;n e a Internet. Esta rede global perm&iacute;telle aos usuarios enviar e recibir informaci&oacute;n de todo o mundo, servindo de soporte para os medios tradicionais como a prensa, radio e televisi&oacute;n, que agora tam&eacute;n ofrecen contido en li&ntilde;a.</p>
 <p><strong>8.2. A lingua galega en Internet</strong></p>
 <p>En 1996, a implantaci&oacute;n de Internet na Galiza permitiu que a lingua galega comezase a estar presente na Rede. Xurdiron portais en galego como <strong>Vieiros</strong>, xornais en li&ntilde;a e proxectos de normalizaci&oacute;n ling&uuml;&iacute;stica, a&iacute;nda que a presenza do galego segue sendo insuficiente para consolidar a s&uacute;a normalizaci&oacute;n no &aacute;mbito dixital.</p>
-<p><br /> <br /> </p>`
+<p><br /> <br /> </p>"
 
 ,
-    "microResumo": `<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
+    "microResumo": "<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <p>A comunicaci&oacute;n &eacute; un proceso fundamental no ser humano, que implica a transmisi&oacute;n de informaci&oacute;n mediante a emisi&oacute;n, conduci&oacute;n e recepci&oacute;n dunha mensaxe. Esta necesidade de relacionarse cos demais permitiu que os seres humanos mellorasen os m&eacute;todos de comunicaci&oacute;n ao longo da historia. Actualmente, a maior&iacute;a dos contactos sociais real&iacute;zanse a trav&eacute;s de medios artificiais, como resultado dos avances tecnol&oacute;xicos.</p>
 <p><strong>2. OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS</strong></p>
@@ -200,10 +200,8 @@
 <p>A partir dos <strong>anos 90</strong>, a tecnolox&iacute;a dixital, a inform&aacute;tica e a fibra &oacute;ptica permitiron un aumento espectacular na transmisi&oacute;n de datos, revolucionando os medios tradicionais. <strong>Internet</strong>, a rede global de ordenadores, permitiu unha nova forma de comunicaci&oacute;n, sendo usada polos medios tradicionais para ofrecer contidos en li&ntilde;a. Moitos xornais e emisoras te&ntilde;en hoxe en d&iacute;a edici&oacute;ns dixitais.</p>
 <p><strong>8.2. A lingua galega en Internet</strong></p>
 <p>En <strong>1996</strong>, Galicia experimentou un avance no uso do galego en Internet. Apareceron as primeiras p&aacute;xinas web en galego e proxectos como <strong>Vieiros</strong>. A&iacute;nda que hoxe en d&iacute;a existen moitos recursos en galego en li&ntilde;a, a presenza da lingua segue sendo insuficiente en comparaci&oacute;n con outras linguas, o que afecta negativamente &aacute; s&uacute;a normalizaci&oacute;n no &aacute;mbito dixital.</p>
-<p><br /> <br /> </p>
-
-`,
-    "outros": `<p>GUI&Oacute;N/ ESQUEMA</p>
+<p><br /> <br /> </p>",
+    "outros": "<p>GUI&Oacute;N/ ESQUEMA</p>
 <p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <ul type="disc">
@@ -374,9 +372,7 @@
 <p>A presenza do galego en Internet segue sendo limitada, afectando a s&uacute;a normalizaci&oacute;n ling&uuml;&iacute;stica.</p>
 <p><br /> <br /> <br /> </p>
 </div>
-
-
-`
+"
     },
     "minixogos": false,
     "preguntas": [
