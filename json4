@@ -1,32 +1,29 @@
 {
-    "nomeTema": "probandoUrl",
-    "tituloCompleto": "título de tema url",
-    "numero": 10101,
-"id":"iuuiuhi",
-        "nomeTeoria":"Teoría Nome",
-    "nomeResumo":"Resumox",
-    "nomeMicrorresumo":"Minirresumo",
-    "nomeIdeas":"Ideas",
-    "nomeOutros":"Outros",
-    "contenTeoria":true,
-    "contenResumo":true,
-    "contenMicrorresumo":true,
-    "contenIdeas":true,
-    "contenOutros":false,
-  "contenPreguntas":true,
-  "contenMinixogosPropios":false,
-  "contenPreguntasMinixogos":false,
-    "seccions": {
+  "nomeTema": "sdfdsfdsf",
+  "tituloCompleto": "título de tema url",
+  "numero": 10101,
+  "id": "iuuiuhi",
+  "nomeTeoria": "Teoría Nome",
+  "nomeResumo": "Resumox",
+  "nomeMicrorresumo": "Minirresumo",
+  "nomeIdeas": "Ideas",
+  "nomeOutros": "Outros",
+  "contenTeoria": true,
+  "contenResumo": true,
+  "contenMicrorresumo": true,
+  "contenIdeas": true,
+  "contenOutros": false,
+  "contenPreguntas": true,
+  "contenMinixogosPropios": false,
+  "contenPreguntasMinixogos": false,
+  "seccions": {
     "teoria": "teoría url",
     "resumo": "resumo url",
     "microResumo": "microrresumo url",
     "ideas": "ideas url",
     "outros": "outros url"
-    },
-    "minixogos": false,
-    "preguntas": [
-   
-]
-,
+  },
+  "minixogos": false,
+  "preguntas": [],
   "preguntasMinixogos": []
-    }
+}
