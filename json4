@@ -24,67 +24,6 @@
     },
     "minixogos": false,
     "preguntas": [
-    {
-        "numero": 1,
-        “numero_tema”: 4,
-        "nome_tema": "Comunicación",
-        "pregunta": "Que é a comunicación desde un punto de vista restritivo?",
-        "resposta": "A transmisión de información mediante a emisión, condución e recepción dunha mensaxe.",
-        "erradas": [
-            "A interacción entre persoas sen necesidade de mensaxes.",
-            "A simple observación dos comportamentos dos demais.",
-            "A transmisión de información sen emisores nin receptores.",
-            "A difusión de información sen a necesidade de tecnoloxías.",
-            "A interpretación de sinais naturais como o tempo.",
-            "O intercambio de sentimentos sen utilizar mensaxes."
-        ]
-    },
-    {
-        "numero": 2,
-        “numero_tema”: 4,
-        "nome_tema": "Medios de comunicación de masas",
-        "pregunta": "Cal é unha das características xerais dos medios de difusión pública?",
-        "resposta": "Responden ás características dun país e dunha cultura.",
-        "erradas": [
-            "Son exclusivamente para fins educativos.",
-            "Non teñen impacto na opinión pública.",
-            "Sempre son de carácter local.",
-            "Só están dirixidos a un público especializado.",
-            "Non inflúen na formación de opinións.",
-            "Son independentes de calquera contexto cultural."
-        ]
-    },
-   
-    {
-        "numero": 22,
-        “numero_tema”: 4,
-        "nome_tema": "Características da prensa escrita",
-        "pregunta": "Que papel xogan as cabeceiras nos xornais?",
-        "resposta": "Identificar o medio e atraer ao lector.",
-        "erradas": [
-            "Decidir o contido da noticia.",
-            "Definir a estratexia comercial.",
-            "Determinar o formato físico do xornal.",
-            "Fixar os custos de impresión.",
-            "Elixir a cor do papel.",
-            "Establecer a frecuencia de publicación."
-        ]
-    },
-    {
-        "numero": 23,
-        “numero_tema”: 4,
-        "nome_tema": "Medios de comunicación e sociedade",
-        "pregunta": "Como influén os medios de comunicación na sociedade?",
-        "resposta": "Forman e reflicten as actitudes e crenzas culturais.",
-        "erradas": [
-            "Só informan sobre eventos internacionais.",
-            "Promoven ideoloxías unicamente políticas.",
-            "Imponen un estilo de vida uniforme.",
-            "Substitúen as interaccións sociais diretas.",
-            "Crean un consenso absoluto entre a poboación.",
-            "Ofrecen só información técnica e científica."
-        ]
-    },
    
 ]
 ,
