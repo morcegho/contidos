@@ -17,7 +17,7 @@
 "contenPreguntasMinixogos":false,
 "seccions": {
 "teoria": "teoría url",
-"resumo": `<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
+"resumo": "<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <p>A comunicaci&oacute;n, desde un punto de vista restritivo, def&iacute;nese como a transmisi&oacute;n de informaci&oacute;n mediante a emisi&oacute;n, conduci&oacute;n e recepci&oacute;n dunha mensaxe. &Eacute; unha aptitude innata do ser humano, quen sempre necesitou relacionarse cos seus semellantes. Isto fomentou a integraci&oacute;n en grupos sociais m&aacute;is amplos e, ao longo da historia, a mellora das capacidades de transmisi&oacute;n e recepci&oacute;n de informaci&oacute;n. Actualmente, os medios de comunicaci&oacute;n artificiais, potenciados polas novas tecnolox&iacute;as, son os principais condutos a trav&eacute;s dos cales as persoas establecen contacto co exterior.</p>
 <p><strong>2. OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS</strong></p>
@@ -66,8 +66,8 @@
 <p>Durante os anos 90, as tecnolox&iacute;as avanzaron grazas &aacute; dixitalizaci&oacute;n e a Internet. Esta rede global perm&iacute;telle aos usuarios enviar e recibir informaci&oacute;n de todo o mundo, servindo de soporte para os medios tradicionais como a prensa, radio e televisi&oacute;n, que agora tam&eacute;n ofrecen contido en li&ntilde;a.</p>
 <p><strong>8.2. A lingua galega en Internet</strong></p>
 <p>En 1996, a implantaci&oacute;n de Internet na Galiza permitiu que a lingua galega comezase a estar presente na Rede. Xurdiron portais en galego como <strong>Vieiros</strong>, xornais en li&ntilde;a e proxectos de normalizaci&oacute;n ling&uuml;&iacute;stica, a&iacute;nda que a presenza do galego segue sendo insuficiente para consolidar a s&uacute;a normalizaci&oacute;n no &aacute;mbito dixital.</p>
-<p><br /> <br /> </p>`,
-    "microResumo": `<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
+<p><br /> <br /> </p>",
+    "microResumo": "<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <p>A comunicaci&oacute;n &eacute; un proceso fundamental no ser humano, que implica a transmisi&oacute;n de informaci&oacute;n mediante a emisi&oacute;n, conduci&oacute;n e recepci&oacute;n dunha mensaxe. Esta necesidade de relacionarse cos demais permitiu que os seres humanos mellorasen os m&eacute;todos de comunicaci&oacute;n ao longo da historia. Actualmente, a maior&iacute;a dos contactos sociais real&iacute;zanse a trav&eacute;s de medios artificiais, como resultado dos avances tecnol&oacute;xicos.</p>
 <p><strong>2. OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS</strong></p>
@@ -127,8 +127,8 @@
 <p><strong>8.1. As novas tecnolox&iacute;as da comunicaci&oacute;n</strong></p>
 <p>Nos anos 90, os avances na tecnolox&iacute;a inform&aacute;tica e na dixitalizaci&oacute;n fixeron posible o desenvolvemento de novos medios de comunicaci&oacute;n. A expansi&oacute;n de <strong>Internet</strong> permitiu unha transmisi&oacute;n m&aacute;is r&aacute;pida e eficiente de datos e imaxes, modificando a forma en que a informaci&oacute;n &eacute; distribu&iacute;da.</p>
 <p><strong>8.2. A lingua galega en Internet</strong></p>
-<p>A partir de 1996, o galego comeza a ter presenza en Internet, con proxectos como <strong>Vieiros</strong>, e a aparici&oacute;n das edici&oacute;ns dixitais dalg&uacute;ns xornais galegos. A&iacute;nda que se deu un avance significativo, a presenza do galego en Internet segue sendo insuficiente en comparaci&oacute;n con outras linguas, o que limita a s&uacute;a visibilidade no espazo dixital.</p>`,
-    "ideas": `<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
+<p>A partir de 1996, o galego comeza a ter presenza en Internet, con proxectos como <strong>Vieiros</strong>, e a aparici&oacute;n das edici&oacute;ns dixitais dalg&uacute;ns xornais galegos. A&iacute;nda que se deu un avance significativo, a presenza do galego en Internet segue sendo insuficiente en comparaci&oacute;n con outras linguas, o que limita a s&uacute;a visibilidade no espazo dixital.</p>",
+    "ideas": "<p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <p>A comunicaci&oacute;n def&iacute;nese como a transmisi&oacute;n de informaci&oacute;n a trav&eacute;s da emisi&oacute;n, conduci&oacute;n e recepci&oacute;n dunha mensaxe. Tr&aacute;tase dunha aptitude innata do ser humano, que sempre buscou mellorar as s&uacute;as capacidades de transmisi&oacute;n de informaci&oacute;n, especialmente a trav&eacute;s dos medios artificiais facilitados polas tecnolox&iacute;as modernas.</p>
 <p><strong>2. OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS</strong></p>
@@ -198,8 +198,8 @@
 <p>A partir dos <strong>anos 90</strong>, a tecnolox&iacute;a dixital, a inform&aacute;tica e a fibra &oacute;ptica permitiron un aumento espectacular na transmisi&oacute;n de datos, revolucionando os medios tradicionais. <strong>Internet</strong>, a rede global de ordenadores, permitiu unha nova forma de comunicaci&oacute;n, sendo usada polos medios tradicionais para ofrecer contidos en li&ntilde;a. Moitos xornais e emisoras te&ntilde;en hoxe en d&iacute;a edici&oacute;ns dixitais.</p>
 <p><strong>8.2. A lingua galega en Internet</strong></p>
 <p>En <strong>1996</strong>, Galicia experimentou un avance no uso do galego en Internet. Apareceron as primeiras p&aacute;xinas web en galego e proxectos como <strong>Vieiros</strong>. A&iacute;nda que hoxe en d&iacute;a existen moitos recursos en galego en li&ntilde;a, a presenza da lingua segue sendo insuficiente en comparaci&oacute;n con outras linguas, o que afecta negativamente &aacute; s&uacute;a normalizaci&oacute;n no &aacute;mbito dixital.</p>
-<p><br /> <br /> </p>`,
-    "outros": `<p>GUI&Oacute;N/ ESQUEMA</p>
+<p><br /> <br /> </p>",
+    "outros": "<p>GUI&Oacute;N/ ESQUEMA</p>
 <p><strong>TEMA 4: OS MEDIOS DE COMUNICACI&Oacute;N DE MASAS. OS MEDIOS IMPRESOS E OS MEDIOS AUDIOVISUAIS. IMAXE E TEXTO</strong></p>
 <p><strong>1. A COMUNICACI&Oacute;N</strong></p>
 <ul type="disc">
@@ -369,7 +369,8 @@
 <p>En 1996, Galicia comezou a integrar o galego en Internet con proxectos como Vieiros.</p>
 <p>A presenza do galego en Internet segue sendo limitada, afectando a s&uacute;a normalizaci&oacute;n ling&uuml;&iacute;stica.</p>
 <p><br /> <br /> <br /> </p>
-</div>`},
+</div>"
+},
     "minixogos": false,
     "preguntas": [
     {
