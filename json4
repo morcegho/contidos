@@ -26,7 +26,7 @@
     "preguntas": [
     {
         "numero": 1,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Comunicación",
         "pregunta": "Que é a comunicación desde un punto de vista restritivo?",
         "resposta": "A transmisión de información mediante a emisión, condución e recepción dunha mensaxe.",
@@ -41,7 +41,7 @@
     },
     {
         "numero": 2,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios de comunicación de masas",
         "pregunta": "Cal é unha das características xerais dos medios de difusión pública?",
         "resposta": "Responden ás características dun país e dunha cultura.",
@@ -56,7 +56,7 @@
     },
     {
         "numero": 3,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Orixes e evolución dos medios",
         "pregunta": "Cando xurdiron os primeiros medios de comunicación modernos?",
         "resposta": "A principios do século XVII.",
@@ -71,7 +71,7 @@
     },
     {
         "numero": 4,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Tecnoloxías dos medios",
         "pregunta": "Que novas tecnoloxías mediáticas se incorporaron na primeira metade do século XX?",
         "resposta": "A radio e a televisión.",
@@ -86,7 +86,7 @@
     },
     {
         "numero": 5,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Funcións dos medios",
         "pregunta": "Que función básica desempeñan os medios de comunicación?",
         "resposta": "A transmisión de mensaxes e a súa conservación e multiplicación.",
@@ -101,7 +101,7 @@
     },
     {
         "numero": 6,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Obxectividade na xornalismo",
         "pregunta": "Que factor interno pode influír na obxectividade da información?",
         "resposta": "A elección dun titular ou outro para unha noticia.",
@@ -116,7 +116,7 @@
     },
     {
         "numero": 7,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Lingua galega nos medios",
         "pregunta": "Que medios de comunicación en galego existían durante a ditadura de Franco?",
         "resposta": "Prácticamente non había medios en galego durante a ditadura.",
@@ -131,7 +131,7 @@
     },
     {
         "numero": 8,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Historia da prensa galega",
         "pregunta": "Que periódico foi o primeiro en galego?",
         "resposta": "O Tío Marcos da Pórtela.",
@@ -146,7 +146,7 @@
     },
     {
         "numero": 9,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Prensa durante o franquismo",
         "pregunta": "Que xornal importante da posguerra mantivo colaboradores galeguistas?",
         "resposta": "La Noche.",
@@ -161,7 +161,7 @@
     },
     {
         "numero": 10,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "A prensa escrita",
         "pregunta": "Cal é unha das modalidades máis características da prensa escrita?",
         "resposta": "Xornais e revistas.",
@@ -176,7 +176,7 @@
     },
     {
         "numero": 11,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Composición dun xornal",
         "pregunta": "Que elemento físico do xornal está constituído pola cantidade de páxinas e a dimensión das mesmas?",
         "resposta": "O formato.",
@@ -191,7 +191,7 @@
     },
     {
         "numero": 12,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios de comunicación de masas",
         "pregunta": "Cal é unha característica dos medios de comunicación de masas?",
         "resposta": "Transmiten unha gran cantidade de información a moitos individuos en distintos lugares.",
@@ -206,7 +206,7 @@
     },
     {
         "numero": 13,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Tecnoloxías dos medios",
         "pregunta": "Cando se empezou a utilizar a televisión de forma regular en EE.UU.?",
         "resposta": "A partir de 1928.",
@@ -221,7 +221,7 @@
     },
     {
         "numero": 14,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Características dos medios",
         "pregunta": "Que papel desempeñan os medios de comunicación como instrumentos culturais?",
         "resposta": "Fomentan determinadas actitudes e modelos de comportamento.",
@@ -236,7 +236,7 @@
     },
     {
         "numero": 15,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Códigos nos medios",
         "pregunta": "Que tipo de código era orixinariamente empregado polos medios de comunicación?",
         "resposta": "Código verbal.",
@@ -251,7 +251,7 @@
     },
     {
         "numero": 16,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Funcións dos medios",
         "pregunta": "Cal é unha das finalidades principais dos medios de comunicación?",
         "resposta": "Conectar os emisores e receptores a través da mensaxe.",
@@ -266,7 +266,7 @@
     },
     {
         "numero": 17,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo e obxectividade",
         "pregunta": "Que elemento pode alterar a obxectividade dunha noticia?",
         "resposta": "A elección do enfoque da noticia.",
@@ -281,7 +281,7 @@
     },
     {
         "numero": 18,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Lingua galega na prensa",
         "pregunta": "Que publicación en galego foi importante durante o período franquista?",
         "resposta": "A Nosa Terra.",
@@ -296,7 +296,7 @@
     },
     {
         "numero": 19,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Prensa en galego",
         "pregunta": "Cando se restableceu a publicación en galego tras a dictadura?",
         "resposta": "Durante a transición democrática.",
@@ -311,7 +311,7 @@
     },
     {
         "numero": 20,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Evolución da prensa",
         "pregunta": "Cal foi un dos primeiros medios de comunicación en utilizar a radio?",
         "resposta": "A partir de 1920 en EE.UU.",
@@ -326,7 +326,7 @@
     },
     {
         "numero": 21,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Obxectividade na prensa",
         "pregunta": "Que aspecto é crucial para manter a obxectividade na prensa?",
         "resposta": "A separación entre a opinión e a información.",
@@ -341,7 +341,7 @@
     },
     {
         "numero": 22,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Características da prensa escrita",
         "pregunta": "Que papel xogan as cabeceiras nos xornais?",
         "resposta": "Identificar o medio e atraer ao lector.",
@@ -356,7 +356,7 @@
     },
     {
         "numero": 23,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios de comunicación e sociedade",
         "pregunta": "Como influén os medios de comunicación na sociedade?",
         "resposta": "Forman e reflicten as actitudes e crenzas culturais.",
@@ -371,7 +371,7 @@
     },
     {
         "numero": 24,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Evolución dos medios",
         "pregunta": "Que medio de comunicación revolucionou a difusión de información en masa no século XX?",
         "resposta": "A televisión.",
@@ -386,7 +386,7 @@
     },
     {
         "numero": 25,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Impacto dos medios",
         "pregunta": "Que factor contribúe ao impacto social dos medios de comunicación?",
         "resposta": "A capacidade para chegar a grandes audiencias.",
@@ -401,7 +401,7 @@
     },
     {
         "numero": 26,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contidos mediáticos",
         "pregunta": "Que tipo de contidos predominan na prensa escrita?",
         "resposta": "Noticias e reportaxes.",
@@ -416,7 +416,7 @@
     },
     {
         "numero": 27,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Relevancia dos medios",
         "pregunta": "Que función principal cumpren os medios de comunicación no ámbito cultural?",
         "resposta": "Facilitar a difusión e preservación da cultura.",
@@ -431,7 +431,7 @@
     },
     {
         "numero": 28,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo e ética",
         "pregunta": "Que principio ético debe guiar o xornalismo?",
         "resposta": "A veracidade e precisión da información.",
@@ -446,7 +446,7 @@
     },
     {
         "numero": 29,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Impacto das tecnoloxías",
         "pregunta": "Como influíron as novas tecnoloxías na prensa?",
         "resposta": "Aumentaron a velocidade e o alcance da difusión de información.",
@@ -461,7 +461,7 @@
     },
     {
         "numero": 30,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios e sociedade",
         "pregunta": "Que papel desempeñan os medios de comunicación na formación de opinións públicas?",
         "resposta": "Influír nas percepcións e actitudes da sociedade.",
@@ -479,7 +479,7 @@
 
     {
         "numero": 31,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios e comunicación",
         "pregunta": "Cal é unha característica esencial dos medios de comunicación de masas?",
         "resposta": "A capacidade de transmitir información a unha gran audiencia simultaneamente.",
@@ -494,7 +494,7 @@
     },
     {
         "numero": 32,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Historia da comunicación",
         "pregunta": "Que evento marcou o comezo da era moderna dos medios de comunicación?",
         "resposta": "A invención da imprenta por Gutenberg.",
@@ -509,7 +509,7 @@
     },
     {
         "numero": 33,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Desenvolvemento da prensa",
         "pregunta": "Que elemento foi crucial para a expansión da prensa no século XIX?",
         "resposta": "A imprenta de tipos móbiles.",
@@ -524,7 +524,7 @@
     },
     {
         "numero": 34,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Prensa escrita",
         "pregunta": "Que diferencia entre xornais e revistas?",
         "resposta": "Os xornais son publicacións periódicas diarias ou semanais, mentres que as revistas son publicacións que saen con menor frecuencia.",
@@ -539,7 +539,7 @@
     },
     {
         "numero": 35,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Funcións da prensa",
         "pregunta": "Cal é unha das principais funcións da prensa?",
         "resposta": "Informar ao público sobre eventos actuais e importantes.",
@@ -554,7 +554,7 @@
     },
     {
         "numero": 36,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Códigos mediáticos",
         "pregunta": "Que tipo de código utilízase para transmitir mensaxes visuais en medios impresos?",
         "resposta": "Código icónico e gráfico.",
@@ -569,7 +569,7 @@
     },
     {
         "numero": 37,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios de comunicación",
         "pregunta": "Como inflúen os medios na percepción pública dos eventos?",
         "resposta": "A través da selección e presentación dos feitos.",
@@ -584,7 +584,7 @@
     },
     {
         "numero": 38,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Prensa en galego",
         "pregunta": "Cal foi unha das primeiras publicacións importantes en galego despois da ditadura?",
         "resposta": "O Tío Marcos da Pórtela.",
@@ -599,7 +599,7 @@
     },
     {
         "numero": 39,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios e impacto cultural",
         "pregunta": "Que papel desempeñan os medios de comunicación na formación da cultura?",
         "resposta": "Difunden e amplifican as prácticas culturais e sociais.",
@@ -614,7 +614,7 @@
     },
     {
         "numero": 40,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Desenvolvemento tecnolóxico",
         "pregunta": "Que impacto tivo a aparición de Internet nos medios tradicionais?",
         "resposta": "Ampliou as posibilidades de difusión e acceso á información.",
@@ -629,7 +629,7 @@
     },
     {
         "numero": 41,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo de investigación",
         "pregunta": "Que caracteriza o xornalismo de investigación?",
         "resposta": "A profundización e análise detallada de temas importantes.",
@@ -644,7 +644,7 @@
     },
     {
         "numero": 42,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Códigos e simboloxía",
         "pregunta": "Que elemento é crucial na comprensión dos códigos mediáticos?",
         "resposta": "A interpretación dos signos e símbolos utilizados nos medios.",
@@ -659,7 +659,7 @@
     },
     {
         "numero": 43,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Periodismo e obxectividade",
         "pregunta": "Que práctica pode mellorar a obxectividade na reportaxe?",
         "resposta": "A verificación exhaustiva das fontes e datos.",
@@ -674,7 +674,7 @@
     },
     {
         "numero": 44,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Lingua e medios",
         "pregunta": "Que importancia ten a lingua na creación de contidos mediáticos?",
         "resposta": "Inflúe na accesibilidade e comprensión da información polo público.",
@@ -689,7 +689,7 @@
     },
     {
         "numero": 45,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Impacto social dos medios",
         "pregunta": "Como poden os medios de comunicación influír na percepción social dos problemas?",
         "resposta": "Destacando certos aspectos e minimizando outros.",
@@ -704,7 +704,7 @@
     },
     {
         "numero": 46,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Desenvolvemento dos medios",
         "pregunta": "Que medio de comunicación se popularizou nos anos 50?",
         "resposta": "A televisión.",
@@ -719,7 +719,7 @@
     },
     {
         "numero": 47,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios e política",
         "pregunta": "Como afectan os medios de comunicación á política?",
         "resposta": "A través da cobertura e interpretación dos eventos políticos.",
@@ -734,7 +734,7 @@
     },
     {
         "numero": 48,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios e publicidade",
         "pregunta": "Que papel desempeña a publicidade nos medios de comunicación?",
         "resposta": "Financiar os custos de produción e distribución dos contidos.",
@@ -749,7 +749,7 @@
     },
     {
         "numero": 49,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contidos e medios",
         "pregunta": "Que tipo de contidos predominan na televisión en comparación coa prensa escrita?",
         "resposta": "Contidos audiovisuais e programas de entretemento.",
@@ -764,7 +764,7 @@
     },
     {
         "numero": 50,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Ética dos medios",
         "pregunta": "Que aspecto é fundamental na ética dos medios de comunicación?",
         "resposta": "O respeto á privacidade e a protección dos dereitos individuais.",
@@ -779,7 +779,7 @@
     },
     {
         "numero": 51,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo e tecnoloxía",
         "pregunta": "Que avance tecnolóxico cambiou significativamente a forma de xornalismo no século XXI?",
         "resposta": "A aparición das plataformas de noticias en liña e redes sociais.",
@@ -794,7 +794,7 @@
     },
     {
         "numero": 52,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo e fontes",
         "pregunta": "Que é crucial para garantir a credibilidade das fontes no xornalismo?",
         "resposta": "A confirmación e verificación independente das fontes.",
@@ -809,7 +809,7 @@
     },
     {
         "numero": 53,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Medios e información",
         "pregunta": "Como pode a fragmentación da información afectar aos lectores?",
         "resposta": "Pode levar a unha comprensión parcial ou incorrecta dos eventos.",
@@ -824,7 +824,7 @@
     },
     {
         "numero": 54,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Cultura e medios",
         "pregunta": "Que función cultural desempeñan os medios de comunicación?",
         "resposta": "Reflexionar e influír nas normas e valores culturais da sociedade.",
@@ -839,7 +839,7 @@
     },
     {
         "numero": 55,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Prensa e política",
         "pregunta": "Que relación entre a prensa e a política pode xerar controversia?",
         "resposta": "A influencia da prensa nas campañas políticas e eleccións.",
@@ -854,7 +854,7 @@
     },
     {
         "numero": 56,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Desenvolvemento de medios",
         "pregunta": "Cal foi un dos primeiros medios de comunicación en usar a televisión para transmitir noticias?",
         "resposta": "As redes de televisión nos anos 40 en EE.UU.",
@@ -869,7 +869,7 @@
     },
     {
         "numero": 57,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Innovación nos medios",
         "pregunta": "Que tecnoloxía revolucionou a creación e distribución de contidos nos anos 2000?",
         "resposta": "A Internet e as redes sociais.",
@@ -884,7 +884,7 @@
     },
     {
         "numero": 58,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Impacto da radio",
         "pregunta": "Que papel desempeñou a radio durante a Segunda Guerra Mundial?",
         "resposta": "Facilitou a transmisión de mensaxes e noticias en tempo real.",
@@ -899,7 +899,7 @@
     },
     {
         "numero": 59,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Desenvolvemento do xornalismo",
         "pregunta": "Que característica diferenciaba o xornalismo no século XIX do do século XX?",
         "resposta": "A introdución de novos formatos e técnicas de reportaxe.",
@@ -914,7 +914,7 @@
     },
     {
         "numero": 60,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Ética no xornalismo",
         "pregunta": "Que desafío ético é frecuente no xornalismo contemporáneo?",
         "resposta": "Manter a obxectividade e evitar a parcialidade nas reportaxes.",
@@ -931,7 +931,7 @@
 [
     {
         "numero": 61,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é un medio de comunicación?",
         "resposta": "Un canal a través do cal se transmite información ao público.",
@@ -946,7 +946,7 @@
     },
     {
         "numero": 62,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio de comunicación en Galicia ten maior tirada?",
         "resposta": "O xornal 'La Voz de Galicia'.",
@@ -961,7 +961,7 @@
     },
     {
         "numero": 63,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a obxectividade nos medios de comunicación?",
         "resposta": "A presentación da información sen mostrar opinións persoais ou sesgos.",
@@ -976,7 +976,7 @@
     },
     {
         "numero": 64,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se fundou a primeira emisora de radio en Galicia?",
         "resposta": "1933.",
@@ -991,7 +991,7 @@
     },
     {
         "numero": 65,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Cal é a principal canle de televisión pública en Galicia?",
         "resposta": "Televisión de Galicia (TVG).",
@@ -1006,7 +1006,7 @@
     },
     {
         "numero": 66,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a censura?",
         "resposta": "O control ou restrición da información que se publica ou transmite.",
@@ -1021,7 +1021,7 @@
     },
     {
         "numero": 67,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "Que ano marca a creación da Asociación de Periodistas de Galicia?",
         "resposta": "1987.",
@@ -1036,7 +1036,7 @@
     },
     {
         "numero": 68,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que xornal galego é coñecido pola súa orientación progresista?",
         "resposta": "O xornal 'Galicia Hoxe'.",
@@ -1051,7 +1051,7 @@
     },
     {
         "numero": 69,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que significa a 'liberdade de prensa'?",
         "resposta": "O dereito dos medios de comunicación a publicar e difundir información sen interferencia do goberno.",
@@ -1066,7 +1066,7 @@
     },
     {
         "numero": 70,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se fundou a primeira emisora de televisión en Galicia?",
         "resposta": "1985.",
@@ -1081,7 +1081,7 @@
     },
     {
         "numero": 71,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Cal foi o primeiro xornal en galego en aparecer no século XX?",
         "resposta": "O xornal 'A Nosa Terra'.",
@@ -1096,7 +1096,7 @@
     },
     {
         "numero": 72,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a 'fake news'?",
         "resposta": "Información falsa ou engadida que se presenta como se fose real.",
@@ -1111,7 +1111,7 @@
     },
     {
         "numero": 73,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "Que ano marcou a primeira emisión de noticias en televisión en Galicia?",
         "resposta": "1985.",
@@ -1126,7 +1126,7 @@
     },
     {
         "numero": 74,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio de comunicación en Galicia é coñecido pola súa cobertura en directo de eventos deportivos?",
         "resposta": "A TVG (Televisión de Galicia).",
@@ -1141,7 +1141,7 @@
     },
     {
         "numero": 75,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a 'liberdade de expresión'?",
         "resposta": "O dereito a expresar opinións e ideas sen temor a represalias.",
@@ -1156,7 +1156,7 @@
     },
     {
         "numero": 76,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "Que ano foi a fundación da primeira emisora de radio en galego?",
         "resposta": "1982.",
@@ -1171,7 +1171,7 @@
     },
     {
         "numero": 77,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio galego se especializa en noticias económicas?",
         "resposta": "O xornal 'Xornal de Galicia'.",
@@ -1186,7 +1186,7 @@
     },
     {
         "numero": 78,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a 'transparencia' nos medios de comunicación?",
         "resposta": "A práctica de proporcionar información clara e accesible sobre a súa operación e financiamento.",
@@ -1201,7 +1201,7 @@
     },
     {
         "numero": 79,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se publicou a revista en galego Nós?",
         "resposta": "1920.",
@@ -1216,7 +1216,7 @@
     },
     {
         "numero": 80,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que xornal galego é coñecido pola súa cobertura de temas culturais e de entretemento?",
         "resposta": "O xornal 'O Correo Gallego'.",
@@ -1231,7 +1231,7 @@
     },
     {
         "numero": 81,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que significa 'veracidade' en xornalismo?",
         "resposta": "A precisión e a exactitude da información publicada.",
@@ -1246,7 +1246,7 @@
     },
     {
         "numero": 82,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "Que ano marcou o inicio das transmisións de radio en Galicia?",
         "resposta": "1933.",
@@ -1261,7 +1261,7 @@
     },
     {
         "numero": 83,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Cal é o nome da asociación de xornalistas galegos que promove a formación continua?",
         "resposta": "Asociación de Periodistas de Galicia (APG).",
@@ -1276,7 +1276,7 @@
     },
     {
         "numero": 84,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é o 'código deontolóxico' en xornalismo?",
         "resposta": "Un conxunto de normas que regulan a ética e a conduta profesional dos xornalistas.",
@@ -1291,7 +1291,7 @@
     },
     {
         "numero": 85,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se creou a primeira lei de prensa en Galicia?",
         "resposta": "1984.",
@@ -1306,7 +1306,7 @@
     },
     {
         "numero": 86,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio de comunicación en Galicia é especializado en noticias de política?",
         "resposta": "O xornal 'La Voz de Galicia'.",
@@ -1321,7 +1321,7 @@
     },
     {
         "numero": 87,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a 'responsabilidade social' dos medios de comunicación?",
         "resposta": "O deber de informar de maneira precisa e de contribuir ao benestar da sociedade.",
@@ -1336,7 +1336,7 @@
     },
     {
         "numero": 88,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se publicaron as primeiras leis sobre a liberdade de prensa en España?",
         "resposta": "1978.",
@@ -1351,7 +1351,7 @@
     },
     {
         "numero": 89,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio en Galicia se centra en información local e comarcal?",
         "resposta": "O xornal 'El Progreso'.",
@@ -1366,7 +1366,7 @@
     },
     {
         "numero": 90,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a 'integridade' en xornalismo?",
         "resposta": "A práctica de actuar con honradez e de manter principios éticos na recollida e publicación de noticias.",
@@ -1381,7 +1381,7 @@
     },
     {
         "numero": 91,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "Que ano marcou a fundación do primeiro xornal en galego no século XXI?",
         "resposta": "2000.",
@@ -1396,7 +1396,7 @@
     },
     {
         "numero": 92,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Cal foi o impacto da entrada de Galicia na Transición Democrática sobre os medios de comunicación?",
         "resposta": "Aumento da pluralidade e diversidade nos medios de comunicación galegos.",
@@ -1411,7 +1411,7 @@
     },
     {
         "numero": 93,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é un 'editorial' en xornalismo?",
         "resposta": "Un artigo de opinión que reflicte a postura do medio sobre un tema específico.",
@@ -1426,7 +1426,7 @@
     },
     {
         "numero": 94,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "Que ano iniciou a súa andaina o primeiro xornal dixital en Galicia?",
         "resposta": "2000.",
@@ -1441,7 +1441,7 @@
     },
     {
         "numero": 95,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio galego ofrece información sobre a lingua e cultura galega?",
         "resposta": "A revista 'Grial'.",
@@ -1456,7 +1456,7 @@
     },
     {
         "numero": 96,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é a 'ética' en xornalismo?",
         "resposta": "Un conxunto de principios que guían a conduta profesional para garantir a honestidade e a integridade na información.",
@@ -1471,7 +1471,7 @@
     },
     {
         "numero": 97,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se creou a primeira plataforma de noticias en Internet en Galicia?",
         "resposta": "2000.",
@@ -1486,7 +1486,7 @@
     },
     {
         "numero": 98,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Contexto galego",
         "pregunta": "Que medio galego ten un enfoque especial na educación e xuventude?",
         "resposta": "O xornal 'O Tempo'.",
@@ -1501,7 +1501,7 @@
     },
     {
         "numero": 99,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Conceptos básicos",
         "pregunta": "Que é un 'reportaxe' en xornalismo?",
         "resposta": "Un artigo extensivo que explora un tema en profundidade a través de investigación e análise.",
@@ -1516,7 +1516,7 @@
     },
     {
         "numero": 100,
-        "numero_tema": 111,
+        "numero_tema": 4,
         "nome_tema": "Datas históricas",
         "pregunta": "En que ano se fundou o xornal 'El Correo Gallego'?",
         "resposta": "1910.",
@@ -1532,7 +1532,7 @@
 ,
     {
         "numero": 101,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilo informativo",
         "pregunta": "Que busca o estilo informativo no xornalismo?",
         "resposta": "Informar.",
@@ -1547,7 +1547,7 @@
     },
     {
         "numero": 102,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilo interpretativo",
         "pregunta": "Que estilo busca orientar ao público cara a unhas conclusións?",
         "resposta": "Estilo interpretativo.",
@@ -1562,7 +1562,7 @@
     },
     {
         "numero": 103,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilo ameno",
         "pregunta": "Que finalidade persegue o estilo ameno no xornalismo?",
         "resposta": "Entreter.",
@@ -1577,7 +1577,7 @@
     },
     {
         "numero": 104,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Linguaxe periodística",
         "pregunta": "Cal é a función predominante na linguaxe periodística?",
         "resposta": "Representativa ou referencial.",
@@ -1592,7 +1592,7 @@
     },
     {
         "numero": 105,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Características morfosintácticas",
         "pregunta": "Que figura morfosintáctica describe a 'intenso control policial'?",
         "resposta": "Adxectivación hiperbólica.",
@@ -1607,7 +1607,7 @@
     },
     {
         "numero": 106,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Características léxicas",
         "pregunta": "Que termo describe 'top model' e 'casting' na linguaxe periodística?",
         "resposta": "Estranxeirismos.",
@@ -1622,7 +1622,7 @@
     },
     {
         "numero": 107,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilos de xéneros periodísticos",
         "pregunta": "Que xénero periodístico está destinado a informar de forma breve e obxectiva?",
         "resposta": "Noticia.",
@@ -1637,7 +1637,7 @@
     },
     {
         "numero": 108,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Xéneros informativos",
         "pregunta": "Que xénero periodístico ten unha estructura en forma de pirámide invertida?",
         "resposta": "Noticia.",
@@ -1652,7 +1652,7 @@
     },
     {
         "numero": 109,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Reportaxe",
         "pregunta": "Que diferenza principal hai entre unha noticia e unha reportaxe?",
         "resposta": "A reportaxe é máis extensa e pode comezar cunha descrición ou cita.",
@@ -1667,7 +1667,7 @@
     },
     {
         "numero": 110,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Crónica",
         "pregunta": "Que elemento distingue unha crónica dunha noticia?",
         "resposta": "A crónica introduce elementos valorativos e narra unha noticia nun espazo de tempo.",
@@ -1682,7 +1682,7 @@
     },
     {
         "numero": 111,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Crítica",
         "pregunta": "Sobre que temas adoita versar unha crítica en xornalismo?",
         "resposta": "Sobre novidades de carácter intelectual e artístico.",
@@ -1697,7 +1697,7 @@
     },
     {
         "numero": 112,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Entrevista",
         "pregunta": "Que tipo de entrevista está centrada en xerar unha biografía ou retrato do entrevistado?",
         "resposta": "Entrevista de personalidade.",
@@ -1712,7 +1712,7 @@
     },
     {
         "numero": 113,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Editorial",
         "pregunta": "Como se caracteriza un editorial?",
         "resposta": "É un artigo breve e impersoal que reflicte a postura ideolóxica do xornal.",
@@ -1727,7 +1727,7 @@
     },
     {
         "numero": 114,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Artigo de fondo",
         "pregunta": "Que característica distingue un artigo de fondo de outros xéneros periodísticos?",
         "resposta": "É unha exposición de ideas sobre temas que poden estar ou non de actualidade, e pode ser ocasional ou ter periodicidade fixa.",
@@ -1742,7 +1742,7 @@
     },
     {
         "numero": 115,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Xéneros de opinión",
         "pregunta": "Que xénero periodístico busca crear un estado de opinión nos lectores?",
         "resposta": "Editorial.",
@@ -1757,7 +1757,7 @@
     },
     {
         "numero": 116,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Código auditivo",
         "pregunta": "Que elemento na radio serve para identificar un programa?",
         "resposta": "Sintonía.",
@@ -1772,7 +1772,7 @@
     },
     {
         "numero": 117,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros radiofónicos",
         "pregunta": "Que xénero radiofónico combina actuacións musicais, entrevistas e reportaxes?",
         "resposta": "Magazine.",
@@ -1787,7 +1787,7 @@
     },
     {
         "numero": 118,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros televisivos",
         "pregunta": "Que xénero televisivo se caracteriza por ter un guión fixo e en directo?",
         "resposta": "Programa de debate.",
@@ -1802,7 +1802,7 @@
     },
     {
         "numero": 119,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros de prensa escrita",
         "pregunta": "Que xénero da prensa escrita se caracteriza por ter un formato extenso e análise profunda?",
         "resposta": "Reportaxe.",
@@ -1817,7 +1817,7 @@
     },
     {
         "numero": 120,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Elementos do xornalismo",
         "pregunta": "Que elemento é fundamental para a redacción de unha noticia?",
         "resposta": "Titular.",
@@ -1832,7 +1832,7 @@
     },
     {
         "numero": 121,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Estructura da noticia",
         "pregunta": "Que parte da noticia ofrece a información máis importante?",
         "resposta": "Lede ou entradilla.",
@@ -1847,7 +1847,7 @@
     },
     {
         "numero": 122,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo de investigación",
         "pregunta": "Que técnica é común no xornalismo de investigación?",
         "resposta": "Recollida exhaustiva de datos.",
@@ -1862,7 +1862,7 @@
     },
     {
         "numero": 123,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Ética xornalística",
         "pregunta": "Que principio ético garante a obxectividade nas noticias?",
         "resposta": "Imparcialidade.",
@@ -1877,7 +1877,7 @@
     },
     {
         "numero": 124,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Funcións do xornalismo",
         "pregunta": "Que función do xornalismo se centra en informar de feitos recentes?",
         "resposta": "Función informativa.",
@@ -1892,7 +1892,7 @@
     },
     {
         "numero": 125,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Redacción periodística",
         "pregunta": "Que técnica de redacción utiliza frases curtas e directas?",
         "resposta": "Estilo claro e conciso.",
@@ -1909,7 +1909,7 @@
 
     {
         "numero": 126,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilo descritivo",
         "pregunta": "Que caracteriza o estilo descritivo no xornalismo?",
         "resposta": "Proporciona detalles vívidos e imaxes claras do que se describe.",
@@ -1924,7 +1924,7 @@
     },
     {
         "numero": 127,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilo reflexivo",
         "pregunta": "Que busca o estilo reflexivo no xornalismo?",
         "resposta": "Promover a reflexión e a análise sobre un tema.",
@@ -1939,7 +1939,7 @@
     },
     {
         "numero": 128,
-        "numero_tema": 112,
+        "numero_tema": 4,
         "nome_tema": "Estilo persuasivo",
         "pregunta": "Que caracteriza o estilo persuasivo no xornalismo?",
         "resposta": "Intenta convencer ao lector ou espectador dunha determinada postura ou opinión.",
@@ -1954,7 +1954,7 @@
     },
     {
         "numero": 129,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Elementos do guión",
         "pregunta": "Que elemento no guión televisivo marca a separación entre diferentes seccións?",
         "resposta": "Transicións.",
@@ -1969,7 +1969,7 @@
     },
     {
         "numero": 130,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros televisivos",
         "pregunta": "Que xénero televisivo está centrado en mostrar a realidade sen alterar os feitos?",
         "resposta": "Documental.",
@@ -1984,7 +1984,7 @@
     },
     {
         "numero": 131,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Código visual",
         "pregunta": "Que elemento visual nas noticias televisivas destaca a información máis relevante?",
         "resposta": "Titulares e subtítulos.",
@@ -1999,7 +1999,7 @@
     },
     {
         "numero": 132,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros radiofónicos",
         "pregunta": "Que xénero radiofónico se caracteriza por ser en directo e con participación do público?",
         "resposta": "Programa de chamadas.",
@@ -2014,7 +2014,7 @@
     },
     {
         "numero": 133,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros de prensa escrita",
         "pregunta": "Que xénero periodístico se centra en opinar sobre un tema específico e controvertido?",
         "resposta": "Editorial.",
@@ -2029,7 +2029,7 @@
     },
     {
         "numero": 134,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Estrutura da reportaxe",
         "pregunta": "Que parte da reportaxe ofrece un contexto amplo e análise profunda do tema?",
         "resposta": "Corpo da reportaxe.",
@@ -2044,7 +2044,7 @@
     },
     {
         "numero": 135,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Estilo de redacción",
         "pregunta": "Que estilo de redacción é común en reportaxes e artigos de fondo?",
         "resposta": "Estilo analítico e detallado.",
@@ -2059,7 +2059,7 @@
     },
     {
         "numero": 136,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Crónica",
         "pregunta": "Que elemento é fundamental nunha crónica para aportar contexto ao lector?",
         "resposta": "Relato detallado dos feitos e a súa evolución.",
@@ -2074,7 +2074,7 @@
     },
     {
         "numero": 137,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Entrevista",
         "pregunta": "Que tipo de entrevista busca obter respostas para preguntas específicas?",
         "resposta": "Entrevista estruturada.",
@@ -2089,7 +2089,7 @@
     },
     {
         "numero": 138,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Ética xornalística",
         "pregunta": "Que principio ético asegura a precisión na información?",
         "resposta": "Veracidade.",
@@ -2104,7 +2104,7 @@
     },
     {
         "numero": 139,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Estilo xornalístico",
         "pregunta": "Que técnica de estilo evita a repetición e fai a lectura máis fluída?",
         "resposta": "Variedade léxica.",
@@ -2119,7 +2119,7 @@
     },
     {
         "numero": 140,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Funcións do xornalismo",
         "pregunta": "Que función do xornalismo busca motivar a acción ou cambio?",
         "resposta": "Función persuasiva.",
@@ -2134,7 +2134,7 @@
     },
     {
         "numero": 141,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Redacción de crónicas",
         "pregunta": "Que aspecto é crucial para a redacción dunha crónica efectiva?",
         "resposta": "Incorporar elementos narrativos e descricións vívidas.",
@@ -2149,7 +2149,7 @@
     },
     {
         "numero": 142,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Código auditivo",
         "pregunta": "Que elemento auditivo no radioxornal destaca a información máis importante?",
         "resposta": "Ráfaga.",
@@ -2164,7 +2164,7 @@
     },
     {
         "numero": 143,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros de prensa escrita",
         "pregunta": "Que xénero periodístico ofrece unha opinión sobre a actualidade sen necesidade de datos extensivos?",
         "resposta": "Artigo de opinión.",
@@ -2179,7 +2179,7 @@
     },
     {
         "numero": 144,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Estilo narrativo",
         "pregunta": "Que característico é típico do estilo narrativo en xornalismo?",
         "resposta": "Contar unha historia cun principio, desenvolvemento e desenlace.",
@@ -2194,7 +2194,7 @@
     },
     {
         "numero": 145,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Xornalismo de investigación",
         "pregunta": "Que técnica é importante para a validación de fontes no xornalismo de investigación?",
         "resposta": "Corroboración cruzada de información.",
@@ -2209,7 +2209,7 @@
     },
     {
         "numero": 146,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros radiofónicos",
         "pregunta": "Que xénero radiofónico combina música e comentarios sobre a actualidade?",
         "resposta": "Magazine.",
@@ -2224,7 +2224,7 @@
     },
     {
         "numero": 147,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Funcións do xornalismo",
         "pregunta": "Que función do xornalismo busca explicar e interpretar o significado dos feitos?",
         "resposta": "Función interpretativa.",
@@ -2239,7 +2239,7 @@
     },
     {
         "numero": 148,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Ética xornalística",
         "pregunta": "Que principio ético evita a publicación de información falsa ou engadida?",
         "resposta": "Veracidade.",
@@ -2254,7 +2254,7 @@
     },
     {
         "numero": 149,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros de prensa escrita",
         "pregunta": "Que xénero periodístico busca analizar en profundidade un acontecemento específico?",
         "resposta": "Reportaxe.",
@@ -2269,7 +2269,7 @@
     },
     {
         "numero": 150,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros televisivos",
         "pregunta": "Que xénero televisivo se caracteriza por ofrecer información en tempo real?",
         "resposta": "Noticia.",
@@ -2284,7 +2284,7 @@
     },
     {
         "numero": 151,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Redacción periodística",
         "pregunta": "Que aspecto do estilo claro e conciso se enfoca na redacción de noticias?",
         "resposta": "Frases curtas e directas.",
@@ -2299,7 +2299,7 @@
     },
     {
         "numero": 152,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Estilo xornalístico",
         "pregunta": "Que estilo de redacción se enfoca en ofrecer unha perspectiva profunda e detallada?",
         "resposta": "Estilo analítico.",
@@ -2314,7 +2314,7 @@
     },
     {
         "numero": 153,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Código visual",
         "pregunta": "Que elemento visual nas reportaxes destaca as estatísticas e datos?",
         "resposta": "Gráficos e táboas.",
@@ -2329,7 +2329,7 @@
     },
     {
         "numero": 154,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros radiofónicos",
         "pregunta": "Que xénero radiofónico permite ao público participar directamente a través de chamadas?",
         "resposta": "Programa de chamadas.",
@@ -2344,7 +2344,7 @@
     },
     {
         "numero": 155,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Ética xornalística",
         "pregunta": "Que principio ético protexe a privacidade dos individuos?",
         "resposta": "Confidencialidade.",
@@ -2359,7 +2359,7 @@
     },
     {
         "numero": 156,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Funcións do xornalismo",
         "pregunta": "Que función do xornalismo busca provocar a reflexión sobre as implicacións sociais ou políticas?",
         "resposta": "Función crítica.",
@@ -2374,7 +2374,7 @@
     },
     {
         "numero": 157,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros de prensa escrita",
         "pregunta": "Que xénero periodístico busca ofrecer unha visión persoal e subxectiva sobre un tema?",
         "resposta": "Artigo de opinión.",
@@ -2389,7 +2389,7 @@
     },
     {
         "numero": 158,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Estilo narrativo",
         "pregunta": "Que técnica narrativa é común en reportaxes e crónicas?",
         "resposta": "Desenvolvemento de personaxes e trama.",
@@ -2404,7 +2404,7 @@
     },
     {
         "numero": 159,
-        "numero_tema": 114,
+        "numero_tema": 4,
         "nome_tema": "Redacción periodística",
         "pregunta": "Que técnica se usa para asegurar que o texto sexa entendible para unha ampla audiencia?",
         "resposta": "Uso de linguaxe clara e sinxela.",
@@ -2419,7 +2419,7 @@
     },
     {
         "numero": 160,
-        "numero_tema": 113,
+        "numero_tema": 4,
         "nome_tema": "Xéneros radiofónicos",
         "pregunta": "Que xénero radiofónico se enfoca en entrevistas e comentarios sobre temas de interese?",
         "resposta": "Programa de debates.",
