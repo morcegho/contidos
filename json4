@@ -928,7 +928,6 @@
         ]
     }
 ,
-[
     {
         "numero": 61,
         "numero_tema": 4,
@@ -2433,23 +2432,7 @@
         ]
     }
 ,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    {
+{
         "numero": 161,
         "numero_tema": 7,
         "nome_tema": "A Publicidade",
