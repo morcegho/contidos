@@ -1527,8 +1527,7 @@
             "1940.",
             "1950."
         ]
-    }
-,
+    },
     {
         "numero": 101,
         "numero_tema": 4,
@@ -1903,9 +1902,7 @@
             "Uso de metáforas.",
             "Estilo florido e descritivo."
         ]
-    }
-,
-
+    },
     {
         "numero": 126,
         "numero_tema": 4,
@@ -2430,8 +2427,7 @@
             "Concerto.",
             "Entrevista."
         ]
-    }
-,
+    },
 {
         "numero": 161,
         "numero_tema": 7,
@@ -2882,6 +2878,6 @@
             "Función estereotipadora."
         ]
     }
-]],
+],
     "preguntasMinixogos": []
     }
