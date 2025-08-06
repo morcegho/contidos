@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="gl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartafoles de Drive</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #283593;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 1.8rem;
+        }
+
+        .main-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            padding: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .sub-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin: 1rem auto;
+            flex-wrap: wrap;
+            max-width: 600px;
+        }
+
+        button {
+            background-color: #5c6bc0;
+            color: white;
+            border: none;
+            padding: 0.75rem 1.2rem;
+            border-radius: 6px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #3949ab;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            padding: 1rem;
+        }
+
+   
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            background: linear-gradient(to bottom right, #eef2f7, #dae4f0);
+            color: #333;
+        }
+
+        header {
+            background-color: #344195;
+            color: white;
+            padding: 1.5rem;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2rem;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        }
+
+        button {
+            background-color: #5c6bc0;
+            color: white;
+            border: none;
+            padding: 0.8rem 1.5rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        button:hover {
+            background-color: #3f51b5;
+            transform: scale(1.05);
+        }
+
+        @media (max-width: 600px) {
+
+            .main-buttons,
+            .sub-buttons {
+                flex-direction: column;
+                align-items: stretch;
+                /* cada botón ocupa toda a liña */
+            }
+
+            button {
+                width: 100%;
+                font-size: 1rem;
+                text-align: center;
+            }
+        }
+
+        .footer {
+            background-color: #dce1ff;
+            padding: 1rem;
+            text-align: center;
+            box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .footer-content p {
+            margin: 0.5rem 0;
+            font-weight: 500;
+        }
+
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 0.5rem;
+        }
+
+        .social-icons a img {
+            width: 28px;
+            height: 28px;
+            transition: transform 0.2s ease;
+            border-radius: 6px;
+        }
+
+        .social-icons a img:hover {
+            transform: scale(1.2);
+            box-shadow: 0 0 6px rgba(33, 33, 33, 0.2);
+        }
+    </style>
+    <!-- <link rel="stylesheet" href="styles.css">} -->
+</head>
+
+<body>
+    <header>
+        <h1>Os meus cartafoles</h1>
+    </header>
+
+    <main>
+        <div class="main-buttons">
+            <button onclick="toggleFolder('galega')">📘 Lingua galega</button>
+            <button onclick="toggleFolder('castela')">📗 Lingua castelá</button>
+            <!-- <button onclick="toggleFolder('codigo')">💻 Programación</button> -->
+            <button onclick="toggleFolder('recursos')">📂 Recursos</button>
+        </div>
+
+        <div id="galega" class="sub-buttons hidden">
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1TfF5B4B9IliAkNgFL5eaUQJZxRr4u4J2?usp=drive_link')">Xeral</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1tDgdo3nlN6JH95w1kUDastiFieUsfpJR?usp=drive_link')">Libros
+                ESO/Bach</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1s85tvAUbaFfCAH-AtkkCGJ83HOMKVdXx?usp=drive_link')">Outros
+                manuais e Soluc</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1RchyA7URXU0qbfj6JB44jNqxqDbrlQZm?usp=drive_link')">Outros
+                libros pdf/ebook</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/14HSQA0Zol1NmtgACYp-AHf2B55yWEhOa?usp=drive_link')">Totum
+                Revolutum</button>
+            <button onclick="openFolder('https://padlet.com/palpallemorcego/o-meu-muro-ka3davvpd2culowz')">Muro
+                padlet</button>
+        </div>
+
+        <div id="castela" class="sub-buttons hidden">
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1tV06XT_kJFuD3J2OJcicrcsZs5S-f5hk?usp=drive_link')">Xeral</button>
+
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1BOuk0aqnXBGE4oyPPB5v3f4I-Tt5Rvua?usp=drive_link')">Libros
+                Lengua Castellana</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1MVywg3WAAf99dN4fm8sXzAoMUSR1XHDM?usp=drive_link')">Fichas,
+                materiais+</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1eLoBxeagFcWYTXshKPmB8OejemEq0S6N?usp=drive_link')">Métodos</button>
+            <button
+                onclick="openFolder('https://drive.google.com/drive/folders/1DWzV1C6UP3rbVrvcKxr2dRvFgPFI2Hh6?usp=drive_link')">Pzs
+                breves teatro</button>
+        </div>
+        <div id="codigo" class="sub-buttons hidden">
+            <button onclick="openFolder('https://drive.google.com/galega-lecturas')">Xeral</button>
+            <button onclick="openFolder('https://drive.google.com/codigo-apuntes')">Apuntes</button>
+            <button onclick="openFolder('https://drive.google.com/codigo-exercicios')">Exercicios</button>
+        </div>
+
+        <div id="recursos" class="sub-buttons hidden">
+            <button onclick="openFolder('https://www.edu.xunta.gal/portal/')">Portal da Xunta</button>
+            <button
+                onclick="openFolder('https://www.edu.xunta.gal/centros/eoipontevedra/galego_recursos_didacticos')">Recursos
+                galego eoipontevedra</button>
+            <button onclick="openFolder('https://buscador.net.ar/indexpc.html')">Recursos informática,
+                series...</button>
+            <button onclick="openFolder('https://123apps.com/es/')">Editor Pdf Vídeo Conversor formatos</button>
+            <button onclick="openFolder('https://aifindy.com/todas-las-categorias')">Buscador webs IA</button>
+            <button onclick="openFolder('https://huggingface.co/spaces')">Biblioteca IA</button>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="footer-content">
+            <p>Feito por un morcegho © 2025</p>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/manu_uve/" target="_blank" aria-label="Instagram">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" />
+                </a>
+                <!-- <a href="https://facebook.com/share/17Gn5rRVst/" target="_blank" aria-label="Facebook">
+                    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" />
+                </a> -->
+                <a href="mailto:palpallemorcego@gmail.com" aria-label="Gmail">
+                    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- <script src="script.js"></script> -->
+    <script>
+        function toggleFolder(id) {
+            const allSections = document.querySelectorAll(".sub-buttons");
+            allSections.forEach(section => {
+                if (section.id !== id) {
+                    section.classList.add("hidden");
+                }
+            });
+            const target = document.getElementById(id);
+            target.classList.toggle("hidden");
+        }
+
+        function openFolder(url) {
+            window.open(url, "_blank");
+        }
+    </script>
+
+</body>
+
+</html>
