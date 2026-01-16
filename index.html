@@ -1,277 +1,825 @@
 <!DOCTYPE html>
 <html lang="gl">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cartafoles de Drive</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            margin: 0;
-            background-color: #f0f4f8;
-            color: #333;
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cartafoles de aula</title>
 
-        header {
-            background-color: #283593;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-        h1 {
-            margin: 0;
-            font-size: 1.8rem;
-        }
+  <style>
+    :root {
+      --bg-page: #f3f6fb;
+      --bg-card: #ffffff;
+      --primary: #2563eb;
+      --primary-soft: #e0edff;
+      --accent: #16a34a;
+      --text-main: #111827;
+      --text-muted: #6b7280;
+      --border-subtle: #e5e7eb;
+      --radius-lg: 14px;
+      --radius-md: 10px;
+      --shadow-soft: 0 8px 20px rgba(15, 23, 42, 0.12);
+      --transition: 150ms ease-out;
+    }
 
-        .main-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            padding: 2rem;
-            flex-wrap: wrap;
-        }
+    * {
+      box-sizing: border-box;
+    }
 
-        .sub-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin: 1rem auto;
-            flex-wrap: wrap;
-            max-width: 600px;
-        }
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: "Nunito", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text-main);
+      background: var(--bg-page);
+    }
 
-        button {
-            background-color: #5c6bc0;
-            color: white;
-            border: none;
-            padding: 0.75rem 1.2rem;
-            border-radius: 6px;
-            font-size: 1rem;
-            cursor: pointer;
-            transition: 0.3s ease;
-        }
+    body {
+      min-height: 100vh;
+      display: block;
+    }
 
-        button:hover {
-            background-color: #3949ab;
-        }
+    .app-shell {
+      width: 100%;
+      max-width: 960px;
+      min-height: 100vh;
+      margin: 0 auto;
+      background: #f1f5f9;
+      border-radius: 0;
+      box-shadow: var(--shadow-soft);
+      border: 1px solid var(--border-subtle);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
 
-        .hidden {
-            display: none;
-        }
+    @media (min-width: 900px) {
+      .app-shell {
+        border-radius: 16px;
+        margin: 0.75rem auto;
+        min-height: calc(100vh - 1.5rem);
+      }
+    }
 
-        html,
-        body {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            flex-direction: column;
-        }
+    /* HEADER */
 
-        main {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: flex-start;
-            padding: 1rem;
-        }
+    header {
+      background: #1d4ed8;
+      color: #eff6ff;
+      padding: 0.45rem 0.9rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      border-bottom: 1px solid rgba(15, 23, 42, 0.1);
+    }
 
-   
+    .header-main {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      min-width: 0;
+    }
 
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            margin: 0;
-            background: linear-gradient(to bottom right, #eef2f7, #dae4f0);
-            color: #333;
-        }
+    .header-texts h1 {
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 700;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
 
-        header {
-            background-color: #344195;
-            color: white;
-            padding: 1.5rem;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-        }
+    .icon-chip {
+      border: none;
+      border-radius: 999px;
+      width: 30px;
+      height: 30px;
+      background: rgba(15, 23, 42, 0.15);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.1rem;
+      color: #f9fafb;
+      transition: background 150ms ease-out, transform 90ms ease-out;
+    }
 
-        h1 {
-            margin: 0;
-            font-size: 2rem;
-            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
-        }
+    .icon-chip:hover {
+      background: rgba(15, 23, 42, 0.25);
+      transform: translateY(-1px);
+    }
 
-        button {
-            background-color: #5c6bc0;
-            color: white;
-            border: none;
-            padding: 0.8rem 1.5rem;
-            border-radius: 8px;
-            font-size: 1rem;
-            cursor: pointer;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-            transition: background-color 0.3s ease, transform 0.2s ease;
-        }
+    .icon-chip:focus-visible {
+      outline: 2px solid #bfdbfe;
+      outline-offset: 2px;
+    }
 
-        button:hover {
-            background-color: #3f51b5;
-            transform: scale(1.05);
-        }
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
 
-        @media (max-width: 600px) {
+    .icon-btn {
+      border: none;
+      border-radius: 999px;
+      width: 28px;
+      height: 28px;
+      background: rgba(239, 246, 255, 0.1);
+      color: #e5edff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: background 150ms ease-out, transform 90ms ease-out, box-shadow 150ms ease-out;
+    }
 
-            .main-buttons,
-            .sub-buttons {
-                flex-direction: column;
-                align-items: stretch;
-                /* cada botón ocupa toda a liña */
-            }
+    .icon-btn:hover {
+      background: rgba(239, 246, 255, 0.25);
+      box-shadow: 0 3px 8px rgba(15, 23, 42, 0.4);
+      transform: translateY(-1px);
+    }
 
-            button {
-                width: 100%;
-                font-size: 1rem;
-                text-align: center;
-            }
-        }
+    .icon-btn:focus-visible {
+      outline: 2px solid #bfdbfe;
+      outline-offset: 2px;
+    }
 
-        .footer {
-            background-color: #dce1ff;
-            padding: 1rem;
-            text-align: center;
-            box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
-        }
+    @media (max-width: 540px) {
+      header {
+        padding-inline: 0.7rem;
+      }
+      .header-texts h1 {
+        font-size: 0.95rem;
+      }
+    }
 
-        .footer-content p {
-            margin: 0.5rem 0;
-            font-weight: 500;
-        }
+    /* MAIN / LAYOUT */
 
-        .social-icons {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin-top: 0.5rem;
-        }
+    main {
+      flex: 1;
+      padding: 0.6rem 1.1rem 0.8rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      background: linear-gradient(to bottom, #eff6ff, #f9fafb);
+    }
 
-        .social-icons a img {
-            width: 28px;
-            height: 28px;
-            transition: transform 0.2s ease;
-            border-radius: 6px;
-        }
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.7fr);
+      gap: 0.6rem;
+      height: 100%;
+      min-height: 0;
+    }
 
-        .social-icons a img:hover {
-            transform: scale(1.2);
-            box-shadow: 0 0 6px rgba(33, 33, 33, 0.2);
-        }
-    </style>
-    <!-- <link rel="stylesheet" href="styles.css">} -->
+    @media (max-width: 720px) {
+      main {
+        padding-inline: 0.75rem;
+      }
+      .layout {
+        grid-template-columns: 1fr;
+        height: auto;
+      }
+    }
+
+    .column-card {
+      border-radius: var(--radius-lg);
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      padding: 0.6rem 0.7rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.55rem;
+      min-height: 0;
+    }
+
+    .col-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .col-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+    }
+
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .chip {
+      border-radius: 999px;
+      padding: 0.12rem 0.6rem;
+      border: 1px solid #bfdbfe;
+      background: var(--primary-soft);
+      font-size: 0.72rem;
+      color: #1d4ed8;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .chip-icon {
+      font-size: 0.95rem;
+    }
+
+    .helper-text {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin: 0.15rem 0 0;
+    }
+
+    /* BOTÓNS MATERIAS */
+
+    .main-buttons {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
+      gap: 0.5rem;
+    }
+
+    .folder-btn {
+      position: relative;
+      width: 100%;
+      border-radius: var(--radius-md);
+      padding: 0.65rem 0.7rem;
+      border: 1px solid #d1d5db;
+      background: #ffffff;
+      color: #111827;
+      font-size: 0.88rem;
+      font-weight: 600;
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      transition: transform 90ms ease-out, box-shadow var(--transition), border-color var(--transition), background var(--transition);
+      min-height: 46px;
+    }
+
+    .folder-btn span.label {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      min-width: 0;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+
+    .folder-btn .emoji {
+      font-size: 1.2rem;
+    }
+
+    .folder-btn .chevron {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .folder-btn:hover {
+      transform: translateY(-1px);
+      border-color: #93c5fd;
+      box-shadow: 0 5px 14px rgba(148, 163, 184, 0.45);
+      background: #eff6ff;
+    }
+
+    .folder-btn[aria-expanded="true"] {
+      border-color: var(--primary);
+      background: #e0edff;
+      box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.18);
+    }
+
+    .folder-btn:focus-visible {
+      outline: 2px solid #3b82f6;
+      outline-offset: 1px;
+    }
+
+    /* DEREITA: LIGAZÓNS + WEBS */
+
+    .right-columns {
+      display: grid;
+      grid-template-rows: 1.1fr 0.9fr;
+      gap: 0.55rem;
+      min-height: 0;
+    }
+
+    @media (max-width: 720px) {
+      .right-columns {
+        grid-template-rows: auto auto;
+      }
+    }
+
+    .sub-sections {
+      flex: 1;
+      min-height: 0;
+    }
+
+    .sub-buttons {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.45rem;
+      padding-top: 0.15rem;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .sub-button {
+      border-radius: 9px;
+      padding: 0.65rem 0.7rem;
+      border: 1px solid #e5e7eb;
+      background: #ffffff;
+      color: #111827;
+      font-size: 0.84rem;
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      transition: background var(--transition), border-color var(--transition), box-shadow var(--transition), transform 90ms ease-out;
+      min-height: 44px;
+    }
+
+    .sub-button span.text {
+      min-width: 0;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+
+    .sub-button span.badge {
+      font-size: 0.7rem;
+      padding: 0.12rem 0.5rem;
+      border-radius: 999px;
+      background: #dcfce7;
+      color: #166534;
+      border: 1px solid #bbf7d0;
+      flex-shrink: 0;
+      font-weight: 600;
+    }
+
+    .sub-button:hover {
+      background: #eff6ff;
+      border-color: #bfdbfe;
+      box-shadow: 0 4px 12px rgba(148, 163, 184, 0.45);
+      transform: translateY(-1px);
+    }
+
+    .sub-button:focus-visible {
+      outline: 2px solid #3b82f6;
+      outline-offset: 1px;
+    }
+
+    /* TARXETAS AS MIÑAS WEBS */
+
+    .webs-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 0.55rem;
+      padding-top: 0.2rem;
+    }
+
+    .web-card {
+      position: relative;
+      border-radius: 12px;
+      padding: 0.7rem 0.75rem;
+      border: 1px solid #d1d5db;
+      background: #ffffff;
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      cursor: pointer;
+      text-decoration: none;
+      color: #111827;
+      transition: transform 100ms ease-out, box-shadow var(--transition), border-color var(--transition), background 160ms ease-out;
+      min-height: 54px;
+    }
+
+    .web-card::after {
+      content: "↗";
+      position: absolute;
+      right: 0.6rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.85rem;
+      color: #1d4ed8;
+      opacity: 0.8;
+    }
+
+    .web-card:hover {
+      transform: translateY(-1px);
+      border-color: #93c5fd;
+      box-shadow: 0 6px 16px rgba(148, 163, 184, 0.55);
+      background: #eff6ff;
+    }
+
+    .web-card:focus-visible {
+      outline: 2px solid #3b82f6;
+      outline-offset: 1px;
+    }
+
+    .web-icon-pill {
+      width: 32px;
+      height: 32px;
+      border-radius: 999px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      flex-shrink: 0;
+    }
+
+    .web-card.pinguelando .web-icon-pill {
+      background: #fef3c7;
+      border: 1px solid #facc15;
+    }
+
+    .web-card.iaulagalega .web-icon-pill {
+      background: #dcfce7;
+      border: 1px solid #22c55e;
+    }
+
+    .web-card.caricaturas .web-icon-pill {
+      background: #fee2e2;
+      border: 1px solid #f97373;
+    }
+
+    .web-texts {
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+      margin-right: 1.2rem;
+    }
+
+    .web-title {
+      font-size: 0.86rem;
+      font-weight: 700;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+
+    .web-subtitle {
+      font-size: 0.72rem;
+      color: #6b7280;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+
+    /* FOOTER */
+
+    footer {
+      padding: 0.6rem 1.1rem 0.65rem;
+      border-top: 1px solid var(--border-subtle);
+      background: #f9fafb;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .footer-left {
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+    }
+
+    .footer-left strong {
+      font-weight: 600;
+      color: var(--text-main);
+    }
+
+    .social-icons {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .social-link {
+      width: 24px;
+      height: 24px;
+      border-radius: 999px;
+      overflow: hidden;
+      border: 1px solid #d1d5db;
+      background: #ffffff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 120ms ease-out, box-shadow var(--transition), border-color var(--transition);
+    }
+
+    .social-link img {
+      width: 15px;
+      height: 15px;
+      display: block;
+    }
+
+    .social-link:hover {
+      transform: translateY(-1px);
+      border-color: #93c5fd;
+      box-shadow: 0 4px 10px rgba(148, 163, 184, 0.6);
+    }
+
+    @media (max-width: 540px) {
+      footer {
+        padding-inline: 0.9rem;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
 </head>
 
 <body>
+  <div class="app-shell">
     <header>
-        <h1>Os meus cartafoles</h1>
+      <div class="header-main">
+        <button class="icon-chip" type="button" aria-label="Inicio">
+          <span aria-hidden="true">📚</span>
+        </button>
+        <div class="header-texts">
+          <h1>Cartafoles de aula</h1>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button class="icon-btn" type="button" onclick="location.reload()" aria-label="Actualizar">
+          ⟳
+        </button>
+      </div>
     </header>
 
     <main>
-        <div class="main-buttons">
-            <button onclick="toggleFolder('galega')">📘 Lingua galega</button>
-            <button onclick="toggleFolder('castela')">📗 Lingua castelá</button>
-            <button onclick="toggleFolder('oratoria')">🎙️ Oratoria</button>
-            <!-- <button onclick="toggleFolder('codigo')">💻 Programación</button> -->
-            <button onclick="toggleFolder('recursos')">📂 Recursos</button>
-        </div>
-
-        <div id="galega" class="sub-buttons hidden">
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1TfF5B4B9IliAkNgFL5eaUQJZxRr4u4J2?usp=drive_link')">Xeral</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1tDgdo3nlN6JH95w1kUDastiFieUsfpJR?usp=drive_link')">Libros
-                ESO/Bach</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1s85tvAUbaFfCAH-AtkkCGJ83HOMKVdXx?usp=drive_link')">Outros
-                manuais e Soluc</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1RchyA7URXU0qbfj6JB44jNqxqDbrlQZm?usp=drive_link')">Outros
-                libros pdf/ebook</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/14HSQA0Zol1NmtgACYp-AHf2B55yWEhOa?usp=drive_link')">Totum
-                Revolutum</button>
-            <button onclick="openFolder('https://padlet.com/palpallemorcego/o-meu-muro-ka3davvpd2culowz')">Muro
-                padlet</button>
-        </div>
-
-        <div id="castela" class="sub-buttons hidden">
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1tV06XT_kJFuD3J2OJcicrcsZs5S-f5hk?usp=drive_link')">Xeral</button>
-
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1BOuk0aqnXBGE4oyPPB5v3f4I-Tt5Rvua?usp=drive_link')">Libros
-                Lengua Castellana</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1MVywg3WAAf99dN4fm8sXzAoMUSR1XHDM?usp=drive_link')">Fichas,
-                materiais+</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1eLoBxeagFcWYTXshKPmB8OejemEq0S6N?usp=drive_link')">Métodos</button>
-            <button
-                onclick="openFolder('https://drive.google.com/drive/folders/1DWzV1C6UP3rbVrvcKxr2dRvFgPFI2Hh6?usp=drive_link')">Pzs
-                breves teatro</button>
-        </div>
-        <div id="codigo" class="sub-buttons hidden">
-            <button onclick="openFolder('https://drive.google.com/galega-lecturas')">Xeral</button>
-            <button onclick="openFolder('https://drive.google.com/codigo-apuntes')">Apuntes</button>
-            <button onclick="openFolder('https://drive.google.com/codigo-exercicios')">Exercicios</button>
-        </div>
-        <div id="oratoria" class="sub-buttons hidden">
-            <button onclick="openFolder('https://drive.google.com/drive/folders/1GuWHU_Ff4FZu5Cy6hFJ42ky3t8vLFtxL?usp=drive_link')">Carpeta
-                Drive</button>
-        </div>
-        <div id="recursos" class="sub-buttons hidden">
-            <button onclick="openFolder('https://www.edu.xunta.gal/portal/')">Portal da Xunta</button>
-            <button
-                onclick="openFolder('https://www.edu.xunta.gal/centros/eoipontevedra/galego_recursos_didacticos')">Recursos
-                galego eoipontevedra</button>
-            <button onclick="openFolder('https://buscador.net.ar/indexpc.html')">Recursos informática,
-                series...</button>
-            <button onclick="openFolder('https://123apps.com/es/')">Editor Pdf Vídeo Conversor formatos</button>
-            <button onclick="openFolder('https://aifindy.com/todas-las-categorias')">Buscador webs IA</button>
-            <button onclick="openFolder('https://huggingface.co/spaces')">Biblioteca IA</button>
-        </div>
-    </main>
-    <footer class="footer">
-        <div class="footer-content">
-            <p>Feito por un morcegho © 2025</p>
-            <div class="social-icons">
-                <a href="https://www.instagram.com/manu_uve/" target="_blank" aria-label="Instagram">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" />
-                </a>
-                <!-- <a href="https://facebook.com/share/17Gn5rRVst/" target="_blank" aria-label="Facebook">
-                    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" />
-                </a> -->
-                <a href="mailto:palpallemorcego@gmail.com" aria-label="Gmail">
-                    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
-                </a>
+      <div class="layout">
+        <!-- Columna esquerda: materias -->
+        <section class="column-card" aria-label="Cartafoles principais">
+          <div class="col-header">
+            <div>
+              <div class="col-title">Materias</div>
+              <p class="helper-text">Escolle unha.</p>
             </div>
+            <div class="chip-row">
+              <span class="chip">
+                <span class="chip-icon" aria-hidden="true">🏫</span>
+                Aula
+              </span>
+            </div>
+          </div>
+
+          <div class="main-buttons">
+            <button class="folder-btn" type="button" onclick="toggleFolder('galega')" aria-expanded="false" aria-controls="galega">
+              <span class="label">
+                <span class="emoji" aria-hidden="true">📘</span>
+                Galega
+              </span>
+              <span class="chevron" aria-hidden="true">▾</span>
+            </button>
+
+            <button class="folder-btn" type="button" onclick="toggleFolder('castela')" aria-expanded="false" aria-controls="castela">
+              <span class="label">
+                <span class="emoji" aria-hidden="true">📗</span>
+                Castelá
+              </span>
+              <span class="chevron" aria-hidden="true">▾</span>
+            </button>
+
+            <button class="folder-btn" type="button" onclick="toggleFolder('oratoria')" aria-expanded="false" aria-controls="oratoria">
+              <span class="label">
+                <span class="emoji" aria-hidden="true">🎙️</span>
+                Oratoria
+              </span>
+              <span class="chevron" aria-hidden="true">▾</span>
+            </button>
+
+            <button class="folder-btn" type="button" onclick="toggleFolder('recursos')" aria-expanded="false" aria-controls="recursos">
+              <span class="label">
+                <span class="emoji" aria-hidden="true">🧰</span>
+                Recursos
+              </span>
+              <span class="chevron" aria-hidden="true">▾</span>
+            </button>
+          </div>
+        </section>
+
+        <!-- Dereita: ligazóns + webs -->
+        <div class="right-columns">
+          <section class="column-card" aria-label="Ligazóns do cartafol">
+            <div class="col-header">
+              <div>
+                <div class="col-title">Ligazóns</div>
+                <p class="helper-text">Do cartafol seleccionado.</p>
+              </div>
+            </div>
+
+            <div class="sub-sections">
+              <div id="galega" class="sub-buttons hidden">
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1TfF5B4B9IliAkNgFL5eaUQJZxRr4u4J2?usp=drive_link')">
+                  <span class="text">Xeral</span>
+                  <span class="badge">Drive</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1tDgdo3nlN6JH95w1kUDastiFieUsfpJR?usp=drive_link')">
+                  <span class="text">Libros ESO/Bach</span>
+                  <span class="badge">Libros</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1s85tvAUbaFfCAH-AtkkCGJ83HOMKVdXx?usp=drive_link')">
+                  <span class="text">Manuais e solucións</span>
+                  <span class="badge">Manuais</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1RchyA7URXU0qbfj6JB44jNqxqDbrlQZm?usp=drive_link')">
+                  <span class="text">PDF/ebook</span>
+                  <span class="badge">PDF</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/14HSQA0Zol1NmtgACYp-AHf2B55yWEhOa?usp=drive_link')">
+                  <span class="text">Totum Revolutum</span>
+                  <span class="badge">Varios</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://padlet.com/palpallemorcego/o-meu-muro-ka3davvpd2culowz')">
+                  <span class="text">Muro Padlet</span>
+                  <span class="badge">Web</span>
+                </button>
+              </div>
+
+              <div id="castela" class="sub-buttons hidden">
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1tV06XT_kJFuD3J2OJcicrcsZs5S-f5hk?usp=drive_link')">
+                  <span class="text">Xeral</span>
+                  <span class="badge">Drive</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1BOuk0aqnXBGE4oyPPB5v3f4I-Tt5Rvua?usp=drive_link')">
+                  <span class="text">Libros Lengua</span>
+                  <span class="badge">Libros</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1MVywg3WAAf99dN4fm8sXzAoMUSR1XHDM?usp=drive_link')">
+                  <span class="text">Fichas e materiais</span>
+                  <span class="badge">Materiais</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1eLoBxeagFcWYTXshKPmB8OejemEq0S6N?usp=drive_link')">
+                  <span class="text">Métodos</span>
+                  <span class="badge">Métodos</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1DWzV1C6UP3rbVrvcKxr2dRvFgPFI2Hh6?usp=drive_link')">
+                  <span class="text">Teatro breve</span>
+                  <span class="badge">Teatro</span>
+                </button>
+              </div>
+
+              <div id="oratoria" class="sub-buttons hidden">
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://drive.google.com/drive/folders/1GuWHU_Ff4FZu5Cy6hFJ42ky3t8vLFtxL?usp=drive_link')">
+                  <span class="text">Carpeta Drive</span>
+                  <span class="badge">Drive</span>
+                </button>
+              </div>
+
+              <div id="recursos" class="sub-buttons hidden">
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://www.edu.xunta.gal/portal/')">
+                  <span class="text">Portal da Xunta</span>
+                  <span class="badge">Web</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://www.edu.xunta.gal/centros/eoipontevedra/galego_recursos_didacticos')">
+                  <span class="text">Recursos galego EOI</span>
+                  <span class="badge">Recursos</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://buscador.net.ar/indexpc.html')">
+                  <span class="text">Buscador informática/series</span>
+                  <span class="badge">Buscador</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://123apps.com/es/')">
+                  <span class="text">Editor PDF/vídeo</span>
+                  <span class="badge">Ferramentas</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://aifindy.com/todas-las-categorias')">
+                  <span class="text">Buscador webs IA</span>
+                  <span class="badge">IA</span>
+                </button>
+                <button class="sub-button" type="button"
+                  onclick="openFolder('https://huggingface.co/spaces')">
+                  <span class="text">Biblioteca IA</span>
+                  <span class="badge">IA</span>
+                </button>
+              </div>
+            </div>
+          </section>
+
+          <!-- As miñas webs -->
+          <section class="column-card" aria-label="As miñas webs">
+            <div class="col-header">
+              <div class="col-title">As miñas webs</div>
+            </div>
+            <div class="webs-grid">
+              <a class="web-card pinguelando"
+                 href="https://script.google.com/macros/u/1/s/AKfycbwEjDFIYSFUyzxQip1vifE5_JbZFAsMMAj-WeChzK-k1hU_KslhoG0cjr797UDFEVWv9g/exec"
+                 target="_blank" rel="noreferrer">
+                <div class="web-icon-pill" aria-hidden="true">🧪</div>
+                <div class="web-texts">
+                  <div class="web-title">Pinguelando</div>
+                  <div class="web-subtitle">Script actividades</div>
+                </div>
+              </a>
+
+              <a class="web-card iaulagalega"
+                 href="https://iaulagalega.vercel.app"
+                 target="_blank" rel="noreferrer">
+                <div class="web-icon-pill" aria-hidden="true">🧠</div>
+                <div class="web-texts">
+                  <div class="web-title">iaulagalega</div>
+                  <div class="web-subtitle">Recursos e IA</div>
+                </div>
+              </a>
+
+              <a class="web-card caricaturas"
+                 href="https://iaulagalega.vercel.app/castelao"
+                 target="_blank" rel="noreferrer">
+                <div class="web-icon-pill" aria-hidden="true">✏️</div>
+                <div class="web-texts">
+                  <div class="web-title">Caricaturas</div>
+                  <div class="web-subtitle">Castelao & compañía</div>
+                </div>
+              </a>
+            </div>
+          </section>
         </div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="footer-left">
+        <span>Feito por un morcegho © 2025</span>
+        <span><strong>Cartafol persoal</strong> para ter todo a man.</span>
+      </div>
+      <div class="social-icons">
+        <a class="social-link" href="https://www.instagram.com/manu_uve/" target="_blank" rel="noreferrer" aria-label="Instagram">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" />
+        </a>
+        <a class="social-link" href="mailto:palpallemorcego@gmail.com" aria-label="Gmail">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
+        </a>
+      </div>
     </footer>
+  </div>
 
-    <!-- <script src="script.js"></script> -->
-    <script>
-        function toggleFolder(id) {
-            const allSections = document.querySelectorAll(".sub-buttons");
-            allSections.forEach(section => {
-                if (section.id !== id) {
-                    section.classList.add("hidden");
-                }
-            });
-            const target = document.getElementById(id);
-            target.classList.toggle("hidden");
+  <script>
+    function toggleFolder(id) {
+      const allSections = document.querySelectorAll(".sub-buttons");
+      const allFolderButtons = document.querySelectorAll(".folder-btn");
+
+      allSections.forEach(section => {
+        if (section.id !== id) {
+          section.classList.add("hidden");
         }
+      });
 
-        function openFolder(url) {
-            window.open(url, "_blank");
+      allFolderButtons.forEach(btn => {
+        if (btn.getAttribute("aria-controls") !== id) {
+          btn.setAttribute("aria-expanded", "false");
         }
-    </script>
+      });
 
+      const target = document.getElementById(id);
+      const btn = document.querySelector(`.folder-btn[aria-controls="${id}"]`);
+      const isHidden = target.classList.contains("hidden");
+
+      target.classList.toggle("hidden");
+      if (btn) {
+        btn.setAttribute("aria-expanded", String(isHidden));
+      }
+    }
+
+    function openFolder(url) {
+      window.open(url, "_blank", "noopener");
+    }
+  </script>
 </body>
-
 </html>
